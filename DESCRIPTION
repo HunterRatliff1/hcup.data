@@ -1,0 +1,14 @@
+Package: hcup.data
+Title: Datasets Derived From HCUP Software Tools
+Version: 0.0.0.9000
+Authors@R: 
+    person("Hunter", "Ratliff", , "hunterratliff.cv@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-4978-1998"))
+Description: This package provides datasets used in the Healthcare Cost and Utilization Project (HCUP) Software tools
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true

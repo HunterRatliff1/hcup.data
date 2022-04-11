@@ -1,0 +1,441 @@
+CCS,CCS_label,CCS_Level
+PR1,Incision and excision of CNS,main
+PR-1,Operations on the nervous system,lvl1
+PR-1.1,Incision and excision of CNS [1.],lvl2
+PR10,Thyroidectomy; partial or complete,main
+PR-2,Operations on the endocrine system,lvl1
+PR-2.1,Thyroidectomy; partial or complete [10.],lvl2
+PR100,Endoscopy and endoscopic biopsy of the urinary tract,main
+PR-10,Operations on the urinary system,lvl1
+PR-10.1,Cystoscopy and other transurethral procedures,lvl2
+PR101,Transurethral excision; drainage; or removal urinary obstruction,main
+PR102,Ureteral catheterization,main
+PR103,Nephrotomy and nephrostomy,main
+PR-10.2,Nephrotomy and nephrostomy [103.],lvl2
+PR104,Nephrectomy; partial or complete,main
+PR-10.3,Nephrectomy; partial or complete [104.],lvl2
+PR105,Kidney transplant,main
+PR-10.4,Kidney transplant [105.],lvl2
+PR106,Genitourinary incontinence procedures,main
+PR-10.5,Genitourinary incontinence procedures [106.],lvl2
+PR107,Extracorporeal lithotripsy; urinary,main
+PR-10.6,Extracorporeal lithotripsy; urinary [107.],lvl2
+PR108,Indwelling catheter,main
+PR-10.7,Indwelling catheter [108.],lvl2
+PR109,Procedures on the urethra,main
+PR-10.8,Procedures on the urethra [109.],lvl2
+PR11,Diagnostic endocrine procedures,main
+PR-2.2,Diagnostic endocrine procedures [11.],lvl2
+PR110,Other diagnostic procedures of urinary tract,main
+PR-10.9,Other diagnostic procedures of urinary tract [110.],lvl2
+PR111,Other non-OR therapeutic procedures of urinary tract,main
+PR-10.10,Other non-OR therapeutic procedures of urinary tract [111.],lvl2
+PR112,Other OR therapeutic procedures of urinary tract,main
+PR-10.11,Other OR therapeutic procedures of urinary tract [112.],lvl2
+PR113,Transurethral resection of prostate (TURP),main
+PR-11,Operations on the male genital organs,lvl1
+PR-11.1,Transurethral resection of prostate (TURP) [113.],lvl2
+PR114,Open prostatectomy,main
+PR-11.2,Open prostatectomy [114.],lvl2
+PR115,Circumcision,main
+PR-11.3,Circumcision [115.],lvl2
+PR116,Diagnostic procedures; male genital,main
+PR-11.4,Diagnostic procedures; male genital [116.],lvl2
+PR117,Other non-OR therapeutic procedures; male genital,main
+PR-11.5,Other non-OR therapeutic procedures; male genital [117.],lvl2
+PR118,Other OR therapeutic procedures; male genital,main
+PR-11.6,Other OR therapeutic procedures; male genital [118.],lvl2
+PR119,Oophorectomy; unilateral and bilateral,main
+PR-12,Operations on the female genital organs,lvl1
+PR-12.1,Oophorectomy; unilateral and bilateral [119.],lvl2
+PR12,Therapeutic endocrine procedures,main
+PR-2.3,Other therapeutic endocrine procedures [12.],lvl2
+PR120,Other operations on ovary,main
+PR-12.2,Other operations on ovary [120.],lvl2
+PR121,Ligation or occlusion of fallopian tubes,main
+PR-12.3,Ligation of fallopian tubes [121.],lvl2
+PR122,Removal of ectopic pregnancy,main
+PR-13,Obstetrical procedures,lvl1
+PR-13.10,Removal of ectopic pregnancy [122.],lvl2
+PR123,Other operations on fallopian tubes,main
+PR-12.4,Other operations on fallopian tubes [123.],lvl2
+PR124,Hysterectomy; abdominal and vaginal,main
+PR-12.5,Hysterectomy; abdominal and vaginal [124.],lvl2
+PR125,Other excision of cervix and uterus,main
+PR-12.6,Other excision of cervix and uterus [125.],lvl2
+PR126,Abortion (termination of pregnancy),main
+PR-12.7,Abortion (termination of pregnancy) [126.],lvl2
+PR127,Dilation and curettage (D&C),main
+PR-12.8,Dilatation and curettage (D&C); aspiration after delivery or abortion [127.],lvl2
+PR128,Diagnostic dilatation and curettage (D&C),main
+PR-12.9,Diagnostic dilatation and curettage (D&C) [128.],lvl2
+PR129,Repair of cystocele and rectocele; obliteration of vaginal vault,main
+PR-12.10,Repair of cystocele and rectocele; obliteration of vaginal vault [129.],lvl2
+PR13,Corneal transplant,main
+PR-3,Operations on the eye,lvl1
+PR-3.1,Corneal transplant [13.],lvl2
+PR130,Other diagnostic procedures; female organs,main
+PR-12.11,Other diagnostic procedures; female organs [130.],lvl2
+PR131,Other non-OR therapeutic procedures; female organs,main
+PR-12.12,Other non-OR therapeutic procedures; female organs [131.],lvl2
+PR132,Other OR therapeutic procedures; female organs,main
+PR-12.13,Other OR therapeutic procedures; female organs [132.],lvl2
+PR133,Episiotomy,main
+PR-13.1,Episiotomy [133.],lvl2
+PR134,Cesarean section,main
+PR-13.2,Cesarean section [134.],lvl2
+PR135,Forceps; vacuum; and breech delivery,main
+PR-13.3,Forceps; vacuum; and breech delivery [135.],lvl2
+PR136,Artificial rupture of membranes to assist delivery,main
+PR-13.4,Artificial rupture of membranes to assist delivery [136.],lvl2
+PR137,Other procedures to assist delivery,main
+PR-13.5,Other procedures to assist delivery [137.],lvl2
+PR138,Diagnostic amniocentesis,main
+PR-13.6,Diagnostic amniocentesis [138.],lvl2
+PR139,Fetal measurement and monitoring,main
+PR-13.7,Fetal monitoring [139.],lvl2
+PR14,Procedures typically performed for glaucoma,main
+PR-3.2,Glaucoma procedures [14.],lvl2
+PR141,Other therapeutic obstetrical procedures,main
+PR-13.9,Other therapeutic obstetrical procedures [141.],lvl2
+PR142,Partial excision bone,main
+PR-14,Operations on the musculoskeletal system,lvl1
+PR-14.1,Partial excision bone [142.],lvl2
+PR144,Fracture treatment including reposition with or without fixation; facial fracture or dislocation,main
+PR-14.3,Treatment of fracture or dislocation,lvl2
+PR145,Fracture treatment including reposition with or without fixation; radius or ulna fracture or dislocation,main
+PR146,Fracture treatment including reposition with or without fixation; hip or femur fracture or dislocation,main
+PR147,Fracture treatment including reposition with or without fixation; lower extremity fracture or dislocation (other than hip or femur),main
+PR148,Fracture treatment including reposition with or without fixation of other fracture or or dislocation,main
+PR149,Arthroscopy,main
+PR-14.4,Arthroscopy [149.],lvl2
+PR15,Lens and cataract procedures,main
+PR-3.3,Lens and cataract procedures [15.],lvl2
+PR150,Division or release of joint capsule; ligament or cartilage,main
+PR-14.5,Division of joint capsule; ligament or cartilage [150.],lvl2
+PR152,Arthroplasty knee,main
+PR-14.7,Arthroplasty,lvl2
+PR153,Hip replacement; total and partial,main
+PR154,Arthroplasty other than hip or knee,main
+PR155,Arthrocentesis,main
+PR-14.8,Arthrocentesis [155.],lvl2
+PR156,Injections and aspirations of muscles; tendons; bursa; joints and soft tissue,main
+PR-14.9,Injections and aspirations of muscles; tendons; bursa; joints and soft tissue [156.],lvl2
+PR157,Amputation of lower extremity,main
+PR-14.10,Amputation of lower extremity [157.],lvl2
+PR158,Spinal fusion,main
+PR-14.11,Spinal fusion [158.],lvl2
+PR159,Other diagnostic procedures on musculoskeletal system,main
+PR-14.12,Other diagnostic procedures on musculoskeletal system [159.],lvl2
+PR16,Repair of retina,main
+PR-3.4,Repair of retinal tear; detachment [16.],lvl2
+PR160,Other therapeutic procedures on muscles and tendons,main
+PR-14.13,Other therapeutic procedures on muscles and tendons [160.],lvl2
+PR161,Other OR therapeutic procedures on bone,main
+PR-14.14,Other OR therapeutic procedures on bone [161. ],lvl2
+PR162,Other OR therapeutic procedures on joints,main
+PR-14.15,Other OR therapeutic procedures on joints [162.],lvl2
+PR163,Other non-OR therapeutic procedures on musculoskeletal system,main
+PR-14.16,Other non-OR therapeutic procedures on musculoskeletal system [163.],lvl2
+PR164,Other OR therapeutic procedures on musculoskeletal system,main
+PR-14.17,Other OR therapeutic procedures on musculoskeletal system [164.],lvl2
+PR165,Breast biopsy and other diagnostic procedures on breast,main
+PR-15,Operations on the integumentary system,lvl1
+PR-15.1,Procedures on the breast,lvl2
+PR166,Lumpectomy; quadrantectomy of breast,main
+PR167,Mastectomy,main
+PR168,Incision and drainage; skin subcutaneous tissue and fascia,main
+PR-15.2,Incision and drainage; skin and subcutaneous tissue [168.],lvl2
+PR17,Destruction of lesion of retina and choroid,main
+PR-3.5,Destruction of lesion of retina and choroid [17.],lvl2
+PR170,Excision of skin,main
+PR-15.4,Excision of skin lesion [170.],lvl2
+PR171,Repair of skin subcutaneous tissue and fascia,main
+PR-15.5,Suture of skin and subcutaneous tissue [171.],lvl2
+PR172,Skin graft,main
+PR-15.6,Skin graft [172.],lvl2
+PR173,Other diagnostic procedures on skin subcutaneous tissue fascia and breast,main
+PR-15.7,Other diagnostic procedures on skin and subcutaneous tissue [173.],lvl2
+PR174,Other non-OR therapeutic procedures on skin subcutaneous tissue fascia and breast,main
+PR-15.8,Other non-OR therapeutic procedures on skin and breast [174.],lvl2
+PR175,Other OR therapeutic procedures on skin subcutaneous tissue fascia and breast,main
+PR-15.9,Other OR therapeutic procedures on skin and breast [175.],lvl2
+PR176,Organ transplantation (other than bone marrow corneal or kidney),main
+PR-16,Miscellaneous diagnostic and therapeutic procedures,lvl1
+PR-16.1,Other organ transplantation [176.],lvl2
+PR177,CT scan head and neck,main
+PR-16.2,Computerized axial tomography (CT) scan,lvl2
+PR178,CT scan chest,main
+PR179,CT scan abdomen,main
+PR18,Diagnostic procedures on eye,main
+PR-3.6,Diagnostic procedures on eye [18.],lvl2
+PR180,Other CT scan,main
+PR181,Myelogram,main
+PR-16.3,Myelogram [181.],lvl2
+PR182,Mammography,main
+PR-16.4,Mammography [182.],lvl2
+PR183,Routine chest X-ray,main
+PR-16.5,Routine chest X-ray [183.],lvl2
+PR184,Intraoperative cholangiogram,main
+PR-16.6,Intraoperative cholangiogram [184.],lvl2
+PR185,Upper gastrointestinal X-ray,main
+PR-16.7,Upper gastrointestinal X-ray [185.],lvl2
+PR186,Lower gastrointestinal X-ray,main
+PR-16.8,Lower gastrointestinal X-ray [186.],lvl2
+PR187,Intravenous pyelogram,main
+PR-16.9,Intravenous pyelogram [187.],lvl2
+PR188,Cerebral and neck arteriogram,main
+PR-16.10,Cerebral arteriogram [188.],lvl2
+PR189,Contrast aortogram,main
+PR-16.11,Contrast aortogram [189.],lvl2
+PR19,Other therapeutic procedures on eyelids; conjunctiva; cornea,main
+PR-3.7,Other therapeutic procedures on eyelids; conjunctiva; cornea [19.],lvl2
+PR190,Contrast arteriogram of femoral and lower extremity arteries,main
+PR-16.12,Contrast arteriogram of femoral and lower extremity arteries [190.],lvl2
+PR191,Arterio- or venogram (not heart and head/neck),main
+PR-16.13,Arterio or venogram (not heart and head) [191.],lvl2
+PR192,Diagnostic ultrasound of head and neck,main
+PR-16.14,Diagnostic ultrasound,lvl2
+PR193,Diagnostic ultrasound of heart (echocardiogram),main
+PR194,Diagnostic ultrasound of gastrointestinal tract,main
+PR195,Diagnostic ultrasound of urinary tract,main
+PR196,Diagnostic ultrasound of abdomen or retroperitoneum,main
+PR197,Other diagnostic ultrasound,main
+PR198,Magnetic resonance imaging,main
+PR-16.15,Magnetic resonance imaging [198.],lvl2
+PR199,Electroencephalogram (EEG),main
+PR-16.16,Electroencephalogram (EEG) [199.],lvl2
+PR2,Insertion; replacement; or removal of extracranial ventricular shunt,main
+PR-1.2,Insertion; replacement; or removal of extracranial ventricular shunt [2.],lvl2
+PR20,Other intraocular therapeutic procedures,main
+PR-3.8,Other intraocular therapeutic procedures [20.],lvl2
+PR200,Nonoperative urinary system measurements and monitoring,main
+PR-16.17,Nonoperative urinary system measurements [200.],lvl2
+PR201,Cardiac stress tests,main
+PR-16.18,Cardiac stress tests [201.],lvl2
+PR202,Electrocardiogram,main
+PR-16.19,Electrocardiogram [202.],lvl2
+PR203,Electrographic cardiac monitoring,main
+PR-16.20,Electrographic cardiac monitoring [203.],lvl2
+PR204,Swan-Ganz catheterization for monitoring,main
+PR-16.21,Swan-Ganz catheterization for monitoring [204.],lvl2
+PR205,Arterial blood gases,main
+PR-16.22,Arterial blood gases [205.],lvl2
+PR207,Nuclear medicine imaging bone,main
+PR-16.24,Radioisotope scan,lvl2
+PR208,Nuclear medicine imaging pulmonary,main
+PR209,Non-imaging nuclear medicine probe or assay,main
+PR21,Other extraocular muscle and orbit therapeutic procedures,main
+PR-3.9,Other extraocular muscle and orbit therapeutic procedures [21.],lvl2
+PR210,Other nuclear medicine imaging,main
+PR211,Radiation therapy,main
+PR-16.25,Therapeutic radiology [211.],lvl2
+PR212,Diagnostic physical therapy,main
+PR-16.26,Physical therapy,lvl2
+PR213,Physical therapy exercises; manipulation; and other procedures,main
+PR214,Traction; splints; and other wound care,main
+PR215,Other physical therapy and rehabilitation,main
+PR216,Respiratory intubation and mechanical ventilation,main
+PR-16.27,Respiratory intubation and mechanical ventilation [216.],lvl2
+PR217,Other respiratory therapy,main
+PR-16.28,Other respiratory therapy [217.],lvl2
+PR218,Psychological and psychiatric evaluation and therapy,main
+PR-16.29,Psychological and psychiatric evaluation and therapy [218.],lvl2
+PR219,Alcohol and drug rehabilitation/detoxification,main
+PR-16.30,Alcohol and drug rehabilitation/ detoxification [219.],lvl2
+PR22,Tympanoplasty,main
+PR-4,Operations on the ear,lvl1
+PR-4.1,Tympanoplasty [22.],lvl2
+PR220,Ophthalmologic and otologic diagnosis and treatment,main
+PR-16.31,Ophthalmologic and otologic diagnosis and treatment [220.],lvl2
+PR221,Nasogastric tube,main
+PR-16.32,Nasogastric tube [221.],lvl2
+PR222,Blood transfusion,main
+PR-16.33,Blood transfusion [222.],lvl2
+PR223,Enteral and parenteral nutrition,main
+PR-16.34,Enteral and parenteral nutrition [223.],lvl2
+PR224,Cancer chemotherapy,main
+PR-16.35,Cancer chemotherapy [224.],lvl2
+PR225,Conversion of cardiac rhythm,main
+PR-16.36,Conversion of cardiac rhythm [225.],lvl2
+PR226,Other diagnostic radiology and related techniques,main
+PR-16.37,Other diagnostic radiology and related techniques [226.],lvl2
+PR227,Other diagnostic procedures,main
+PR-16.38,Other diagnostic procedures (interview; evaluation; consultation) [227.],lvl2
+PR228,Prophylactic vaccinations and inoculations,main
+PR-16.39,Prophylactic vaccinations and inoculations [228.],lvl2
+PR229,Nonoperative removal of foreign body,main
+PR-16.40,Nonoperative removal of foreign body [229.],lvl2
+PR23,Myringotomy,main
+PR-4.2,Myringotomy [23.],lvl2
+PR230,Extracorporeal shock wave other than urinary,main
+PR-16.41,Extracorporeal shock wave lithotripsy; other than urinary [230.],lvl2
+PR231,Other therapeutic procedures,main
+PR-16.42,Other therapeutic procedures [231.],lvl2
+PR24,Mastoidectomy,main
+PR-4.3,Mastoidectomy [24.],lvl2
+PR25,Diagnostic procedures on ear nose and sinus,main
+PR-4.4,Diagnostic procedures on ear [25.],lvl2
+PR26,Other therapeutic procedures on the ear nose and sinus,main
+PR-4.5,Other therapeutic ear procedures [26.],lvl2
+PR27,Placement of packing material in the nasal region,main
+PR-5,Operations on the nose; mouth; and pharynx,lvl1
+PR-5.1,Control of epistaxis [27.],lvl2
+PR28,Plastic procedures on nose,main
+PR-5.2,Plastic procedures on nose [28.],lvl2
+PR29,Dental procedures,main
+PR-5.3,Dental procedures [29.],lvl2
+PR3,Excision destruction or resection of intervertebral disc,main
+PR-1.3,Laminectomy; excision intervertebral disc [3.],lvl2
+PR30,Tonsillectomy and/or adenoidectomy,main
+PR-5.4,Tonsillectomy and/or adenoidectomy [30.],lvl2
+PR31,Diagnostic procedures on mouth and throat,main
+PR-5.5,Diagnostic procedures on nose; mouth and pharynx [31.],lvl2
+PR32,Other non-OR procedures on mouth and throat,main
+PR-5.6,Other non-OR therapeutic procedures on nose; mouth and pharynx [32.],lvl2
+PR33,Other OR procedures on mouth and throat,main
+PR-5.7,Other OR therapeutic procedures on nose; mouth and pharynx [33.],lvl2
+PR34,Tracheostomy; temporary and permanent,main
+PR-6,Operations on the respiratory system,lvl1
+PR-6.1,Tracheostomy; temporary and permanent [34.],lvl2
+PR35,Tracheoscopy and laryngoscopy with biopsy,main
+PR-6.2,Tracheoscopy and laryngoscopy with biopsy [35.],lvl2
+PR36,Lobectomy or pneumonectomy,main
+PR-6.3,Lobectomy or pneumonectomy [36.],lvl2
+PR37,Diagnostic bronchoscopy and biopsy of bronchus,main
+PR-6.4,Diagnostic bronchoscopy and biopsy of bronchus [37.],lvl2
+PR38,Other diagnostic procedures on lung and bronchus,main
+PR-6.5,Other diagnostic procedures on lung and bronchus [38.],lvl2
+PR39,Incision of pleura; thoracentesis; chest drainage,main
+PR-6.6,Incision of pleura; thoracentesis; chest drainage [39.],lvl2
+PR4,Diagnostic spinal tap,main
+PR-1.4,Diagnostic spinal tap [4.],lvl2
+PR40,Other diagnostic procedures on the respiratory system and mediastinum,main
+PR-6.7,Other diagnostic procedures of respiratory tract and mediastinum [40.],lvl2
+PR41,Other non-OR therapeutic procedures on respiratory system and mediastinum,main
+PR-6.8,Other non-OR therapeutic procedures on respiratory system [41.],lvl2
+PR42,Other OR Rx procedures on respiratory system and mediastinum,main
+PR-6.9,Other OR therapeutic procedures on respiratory system [42.],lvl2
+PR43,Heart valve procedures,main
+PR-7,Operations on the cardiovascular system,lvl1
+PR-7.1,Heart valve procedures [43.],lvl2
+PR44,Coronary artery bypass graft (CABG),main
+PR-7.2,Coronary artery bypass graft (CABG) [44.],lvl2
+PR45,Percutaneous transluminal coronary angioplasty (PTCA) with or without stent placement,main
+PR-7.3,Percutaneous transluminal coronary angioplasty (PTCA) [45.],lvl2
+PR46,Coronary thrombolysis,main
+PR-7.4,Coronary thrombolysis [46.],lvl2
+PR47,Diagnostic cardiac catheterization; coronary arteriography,main
+PR-7.5,Diagnostic cardiac catheterization; coronary arteriography [47.],lvl2
+PR48,Insertion; revision; replacement; removal of cardiac pacemaker or cardioverter/defibrillator,main
+PR-7.6,Insertion; revision; replacement; removal of cardiac pacemaker or cardioverter/defibrillator [48.],lvl2
+PR49,Other OR heart procedures,main
+PR-7.7,Other OR heart procedures [49.],lvl2
+PR5,Insertion of catheter or spinal stimulator and injection into spinal canal,main
+PR-1.5,Insertion of catheter or spinal stimulator and injection into spinal canal [5.],lvl2
+PR50,Extracorporeal circulation auxiliary to open heart procedures,main
+PR-7.8,Extracorporeal circulation auxiliary to open heart procedures [50.],lvl2
+PR51,Endarterectomy; vessel of head and neck,main
+PR-7.9,Endarterectomy; vessel of head and neck [51.],lvl2
+PR52,Aortic resection; replacement or anastomosis,main
+PR-7.10,Aortic resection; replacement or anastomosis [52.],lvl2
+PR53,Varicose vein stripping; lower limb,main
+PR-7.11,Varicose vein stripping; lower limb [53.],lvl2
+PR54,Other vascular catheterization; not heart,main
+PR-7.12,Other vascular catheterization; not heart [54.],lvl2
+PR55,Peripheral vascular bypass,main
+PR-7.13,Peripheral vascular bypass [55.],lvl2
+PR56,Other vascular bypass and shunt; not heart,main
+PR-7.14,Other vascular bypass and shunt; not heart [56.],lvl2
+PR58,Hemodialysis,main
+PR-7.16,Hemodialysis [58.],lvl2
+PR59,Other OR procedures on vessels of head and neck,main
+PR-7.17,Other OR procedures on vessels of head and neck [59.],lvl2
+PR6,Decompression peripheral nerve,main
+PR-1.6,Decompression peripheral nerve [6.],lvl2
+PR60,Embolectomy and endarterectomy of lower limbs,main
+PR-7.18,Embolectomy and endarterectomy of lower limbs [60.],lvl2
+PR61,Other OR procedures on vessels other than head and neck,main
+PR-7.19,Other OR procedures on vessels other than head and neck [61.],lvl2
+PR62,Other diagnostic cardiovascular procedures,main
+PR-7.20,Other diagnostic cardiovascular procedures [62.],lvl2
+PR63,Other non-OR therapeutic cardiovascular procedures,main
+PR-7.21,Other non-OR therapeutic cardiovascular procedures [63.],lvl2
+PR64,Bone marrow transplant,main
+PR-8,Operations on the hemic and lymphatic system,lvl1
+PR-8.1,Bone marrow transplant [64.],lvl2
+PR65,Bone marrow biopsy,main
+PR-8.2,Bone marrow biopsy [65.],lvl2
+PR66,Procedures on spleen,main
+PR-8.3,Procedures on spleen [66.],lvl2
+PR67,Other procedures; hemic and lymphatic systems,main
+PR-8.4,Other therapeutic procedures; hemic and lymphatic system [67.],lvl2
+PR69,Esophageal dilatation,main
+PR-9,Operations on the digestive system,lvl1
+PR-9.1,Therapeutic procedures on the esophagus,lvl2
+PR7,Other diagnostic nervous system procedures,main
+PR-1.7,Other diagnostic nervous system procedures [7.],lvl2
+PR70,Upper gastrointestinal endoscopy; biopsy,main
+PR-9.2,Upper gastrointestinal endoscopy; biopsy [70.],lvl2
+PR71,Gastrostomy; temporary and permanent,main
+PR-9.3,Gastrostomy; temporary and permanent [71.],lvl2
+PR72,Colostomy; temporary and permanent,main
+PR-9.4,Colostomy; temporary and permanent [72.],lvl2
+PR73,Ileostomy and other enterostomy,main
+PR-9.5,Ileostomy and other enterostomy [73.],lvl2
+PR74,Gastrectomy; partial and total,main
+PR-9.6,Gastrectomy; partial and total [74.],lvl2
+PR75,Small bowel resection,main
+PR-9.7,Small bowel resection [75.],lvl2
+PR76,Colonoscopy and biopsy,main
+PR-9.8,Colonoscopy and biopsy [76.],lvl2
+PR77,Proctoscopy and anorectal biopsy,main
+PR-9.9,Proctoscopy and anorectal biopsy [77.],lvl2
+PR78,Colorectal resection,main
+PR-9.10,Colorectal resection [78.],lvl2
+PR79,Excision (partial) of large intestine (not endoscopic),main
+PR-9.11,Local excision of large intestine lesion (not endoscopic) [79.],lvl2
+PR8,Other non-OR or closed therapeutic nervous system procedures,main
+PR-1.8,Other non-OR or closed therapeutic nervous system procedures [8.],lvl2
+PR80,Appendectomy,main
+PR-9.12,Appendectomy [80.],lvl2
+PR81,Hemorrhoid procedures,main
+PR-9.13,Hemorrhoid procedures [81.],lvl2
+PR82,Fluoroscopy of the biliary and pancreatic ducts (ERCP ERC and ERP),main
+PR-9.14,Endoscopic retrograde cannulation of pancreas (ERCP) [82.],lvl2
+PR83,Biopsy of liver,main
+PR-9.15,Biopsy of liver [83.],lvl2
+PR84,Cholecystectomy and common duct exploration,main
+PR-9.16,Cholecystectomy and common duct exploration [84.],lvl2
+PR85,Inguinal and femoral hernia repair,main
+PR-9.17,Inguinal and femoral hernia repair [85.],lvl2
+PR86,Other hernia repair,main
+PR-9.18,Other hernia repair [86.],lvl2
+PR87,Laparoscopy (GI only),main
+PR-9.19,Laparoscopy [87.],lvl2
+PR88,Abdominal paracentesis,main
+PR-9.20,Abdominal paracentesis [88.],lvl2
+PR89,Exploratory laparotomy,main
+PR-9.21,Exploratory laparotomy [89.],lvl2
+PR9,Other OR therapeutic nervous system procedures,main
+PR-1.9,Other OR therapeutic nervous system procedures [9.],lvl2
+PR90,Excision; lysis peritoneal adhesions,main
+PR-9.22,Excision; lysis peritoneal adhesions [90.],lvl2
+PR91,Peritoneal dialysis,main
+PR-9.23,Peritoneal dialysis [91.],lvl2
+PR92,Other bowel diagnostic procedures,main
+PR-9.24,Other bowel diagnostic procedures [92.],lvl2
+PR93,Other non-OR upper GI therapeutic procedures,main
+PR-9.25,Other non-OR upper GI therapeutic procedures [93.],lvl2
+PR94,Other OR upper GI therapeutic procedures,main
+PR-9.26,Other OR upper GI therapeutic procedures [94.],lvl2
+PR95,Other non-OR lower GI therapeutic procedures,main
+PR-9.27,Other non-OR lower GI therapeutic procedures [95.],lvl2
+PR96,Other OR lower GI therapeutic procedures,main
+PR-9.28,Other OR lower GI therapeutic procedures [96.],lvl2
+PR97,Other gastrointestinal diagnostic procedures,main
+PR-9.29,Other gastrointestinal diagnostic procedures [97.],lvl2
+PR98,Other non-OR gastrointestinal therapeutic procedures,main
+PR-9.30,Other non-OR gastrointestinal therapeutic procedures [98.],lvl2
+PR99,Other OR gastrointestinal therapeutic procedures,main
+PR-9.31,Other OR gastrointestinal therapeutic procedures [99.],lvl2

@@ -1,0 +1,437 @@
+CCS,CCS_label,CCS_Level
+DX1,Tuberculosis,main
+DX-1,Infectious and parasitic diseases,lvl1
+DX-1.1,Bacterial infection,lvl2
+DX2,Septicemia (except in labor),main
+DX3,Bacterial infection; unspecified site,main
+DX4,Mycoses,main
+DX-1.2,Mycoses [4.],lvl2
+DX5,HIV infection,main
+DX-1.3,Viral infection,lvl2
+DX6,Hepatitis,main
+DX7,Viral infection,main
+DX8,Other infections; including parasitic,main
+DX-1.4,Other infections; including parasitic [8.],lvl2
+DX9,Sexually transmitted infections (not HIV or hepatitis),main
+DX10,Immunizations and screening for infectious disease,main
+DX-1.5,Immunizations and screening for infectious disease [10.],lvl2
+DX11,Cancer of head and neck,main
+DX-2,Neoplasms,lvl1
+DX-2.11,Cancer; other primary,lvl2
+DX12,Cancer of esophagus,main
+DX-2.2,Other gastrointestinal cancer,lvl2
+DX13,Cancer of stomach,main
+DX14,Cancer of colon,main
+DX-2.1,Colorectal cancer,lvl2
+DX15,Cancer of rectum and anus,main
+DX16,Cancer of liver and intrahepatic bile duct,main
+DX17,Cancer of pancreas,main
+DX18,Cancer of other GI organs; peritoneum,main
+DX19,Cancer of bronchus; lung,main
+DX-2.3,Cancer of bronchus; lung [19.],lvl2
+DX20,Cancer; other respiratory and intrathoracic,main
+DX21,Cancer of bone and connective tissue,main
+DX22,Melanomas of skin,main
+DX-2.4,Cancer of skin,lvl2
+DX23,Other non-epithelial cancer of skin,main
+DX24,Cancer of breast,main
+DX-2.5,Cancer of breast [24.],lvl2
+DX25,Cancer of uterus,main
+DX-2.6,Cancer of uterus and cervix,lvl2
+DX26,Cancer of cervix,main
+DX27,Cancer of ovary,main
+DX-2.7,Cancer of ovary and other female genital organs,lvl2
+DX28,Cancer of other female genital organs,main
+DX29,Cancer of prostate,main
+DX-2.8,Cancer of male genital organs,lvl2
+DX30,Cancer of testis,main
+DX31,Cancer of other male genital organs,main
+DX32,Cancer of bladder,main
+DX-2.9,Cancer of urinary organs,lvl2
+DX33,Cancer of kidney and renal pelvis,main
+DX34,Cancer of other urinary organs,main
+DX35,Cancer of brain and nervous system,main
+DX36,Cancer of thyroid,main
+DX37,Hodgkin`s disease,main
+DX-2.10,Cancer of lymphatic and hematopoietic tissue,lvl2
+DX38,Non-Hodgkin`s lymphoma,main
+DX39,Leukemias,main
+DX40,Multiple myeloma,main
+DX41,Cancer; other and unspecified primary,main
+DX42,Secondary malignancies,main
+DX-2.12,Secondary malignancies [42.],lvl2
+DX43,Malignant neoplasm without specification of site,main
+DX-2.13,Malignant neoplasm without specification of site [43.],lvl2
+DX44,Neoplasms of unspecified nature or uncertain behavior,main
+DX-2.14,Neoplasms of unspecified nature or uncertain behavior [44.],lvl2
+DX45,Maintenance chemotherapy; radiotherapy,main
+DX-2.15,Maintenance chemotherapy; radiotherapy [45.],lvl2
+DX46,Benign neoplasm of uterus,main
+DX-2.16,Benign neoplasms,lvl2
+DX47,Other and unspecified benign neoplasm,main
+DX48,Thyroid disorders,main
+DX-3,Endocrine; nutritional; and metabolic diseases and immunity disorders,lvl1
+DX-3.1,Thyroid disorders [48.],lvl2
+DX49,Diabetes mellitus without complication,main
+DX-3.2,Diabetes mellitus without complication [49.],lvl2
+DX50,Diabetes mellitus with complications,main
+DX-3.3,Diabetes mellitus with complications [50.],lvl2
+DX51,Other endocrine disorders,main
+DX-3.4,Other endocrine disorders [51.],lvl2
+DX52,Nutritional deficiencies,main
+DX-3.5,Nutritional deficiencies [52.],lvl2
+DX53,Disorders of lipid metabolism,main
+DX-3.6,Disorders of lipid metabolism [53.],lvl2
+DX54,Gout and other crystal arthropathies,main
+DX-3.7,Gout and other crystal arthropathies [54.],lvl2
+DX55,Fluid and electrolyte disorders,main
+DX-3.8,Fluid and electrolyte disorders [55.],lvl2
+DX56,Cystic fibrosis,main
+DX-3.9,Cystic fibrosis [56.],lvl2
+DX57,Immunity disorders,main
+DX-3.10,Immunity disorders [57.],lvl2
+DX58,Other nutritional; endocrine; and metabolic disorders,main
+DX-3.11,Other nutritional; endocrine; and metabolic disorders [58.],lvl2
+DX59,Deficiency and other anemia,main
+DX-4,Diseases of the blood and blood-forming organs,lvl1
+DX-4.1,Anemia,lvl2
+DX60,Acute posthemorrhagic anemia,main
+DX61,Sickle cell anemia,main
+DX62,Coagulation and hemorrhagic disorders,main
+DX-4.2,Coagulation and hemorrhagic disorders [62.],lvl2
+DX63,Diseases of white blood cells,main
+DX-4.3,Diseases of white blood cells [63.],lvl2
+DX64,Other hematologic conditions,main
+DX-4.4,Other hematologic conditions [64.],lvl2
+DX76,Meningitis (except that caused by tuberculosis or sexually transmitted disease),main
+DX-6,Diseases of the nervous system and sense organs,lvl1
+DX-6.1,Central nervous system infection,lvl2
+DX77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),main
+DX78,Other CNS infection and poliomyelitis,main
+DX79,Parkinson`s disease,main
+DX-6.2,Hereditary and degenerative nervous system conditions,lvl2
+DX80,Multiple sclerosis,main
+DX81,Other hereditary and degenerative nervous system conditions,main
+DX82,Paralysis,main
+DX-6.3,Paralysis [82.],lvl2
+DX83,Epilepsy; convulsions,main
+DX-6.4,Epilepsy; convulsions [83.],lvl2
+DX84,Headache; including migraine,main
+DX-6.5,Headache; including migraine [84.],lvl2
+DX85,Coma; stupor; and brain damage,main
+DX-6.6,Coma; stupor; and brain damage [85.],lvl2
+DX86,Cataract,main
+DX-6.7,Eye disorders,lvl2
+DX87,Retinal detachments; defects; vascular occlusion; and retinopathy,main
+DX88,Glaucoma,main
+DX89,Blindness and vision defects,main
+DX90,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),main
+DX91,Other eye disorders,main
+DX92,Otitis media and related conditions,main
+DX-6.8,Ear conditions,lvl2
+DX93,Conditions associated with dizziness or vertigo,main
+DX94,Other ear and sense organ disorders,main
+DX95,Other nervous system disorders,main
+DX-6.9,Other nervous system disorders [95.],lvl2
+DX96,Heart valve disorders,main
+DX-7,Diseases of the circulatory system,lvl1
+DX-7.2,Diseases of the heart,lvl2
+DX97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),main
+DX98,Essential hypertension,main
+DX-7.1,Hypertension,lvl2
+DX99,Hypertension with complications and secondary hypertension,main
+DX100,Acute myocardial infarction,main
+DX101,Coronary atherosclerosis and other heart disease,main
+DX102,Nonspecific chest pain,main
+DX103,Pulmonary heart disease,main
+DX104,Other and ill-defined heart disease,main
+DX105,Conduction disorders,main
+DX106,Cardiac dysrhythmias,main
+DX107,Cardiac arrest and ventricular fibrillation,main
+DX108,Congestive heart failure; nonhypertensive,main
+DX109,Acute cerebrovascular disease,main
+DX-7.3,Cerebrovascular disease,lvl2
+DX110,Occlusion or stenosis of precerebral arteries,main
+DX111,Other and ill-defined cerebrovascular disease,main
+DX112,Transient cerebral ischemia,main
+DX113,Late effects of cerebrovascular disease,main
+DX114,Peripheral and visceral atherosclerosis,main
+DX-7.4,Diseases of arteries; arterioles; and capillaries,lvl2
+DX115,Aortic; peripheral; and visceral artery aneurysms,main
+DX116,Aortic and peripheral arterial embolism or thrombosis,main
+DX117,Other circulatory disease,main
+DX118,Phlebitis; thrombophlebitis and thromboembolism,main
+DX-7.5,Diseases of veins and lymphatics,lvl2
+DX119,Varicose veins of lower extremity,main
+DX120,Hemorrhoids,main
+DX121,Other diseases of veins and lymphatics,main
+DX122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),main
+DX-8,Diseases of the respiratory system,lvl1
+DX-8.1,Respiratory infections,lvl2
+DX123,Influenza,main
+DX124,Acute and chronic tonsillitis,main
+DX125,Acute bronchitis,main
+DX126,Other upper respiratory infections,main
+DX127,Chronic obstructive pulmonary disease and bronchiectasis,main
+DX-8.2,Chronic obstructive pulmonary disease and bronchiectasis [127.],lvl2
+DX128,Asthma,main
+DX-8.3,Asthma [128.],lvl2
+DX129,Aspiration pneumonitis; food/vomitus,main
+DX-8.4,Aspiration pneumonitis; food/vomitus [129.],lvl2
+DX130,Pleurisy; pneumothorax; pulmonary collapse,main
+DX-8.5,Pleurisy; pneumothorax; pulmonary collapse [130.],lvl2
+DX131,Respiratory failure; insufficiency; arrest (adult),main
+DX-8.6,Respiratory failure; insufficiency; arrest (adult) [131.],lvl2
+DX132,Lung disease due to external agents,main
+DX-8.7,Lung disease due to external agents [132.],lvl2
+DX133,Other lower respiratory disease,main
+DX-8.8,Other lower respiratory disease [133.],lvl2
+DX134,Other upper respiratory disease,main
+DX-8.9,Other upper respiratory disease [134.],lvl2
+DX135,Intestinal infection,main
+DX-9,Diseases of the digestive system,lvl1
+DX-9.1,Intestinal infection [135.],lvl2
+DX136,Disorders of teeth and jaw,main
+DX-9.2,Disorders of teeth and jaw [136.],lvl2
+DX137,Diseases of mouth; excluding dental,main
+DX-9.3,Diseases of mouth; excluding dental [137.],lvl2
+DX138,Esophageal disorders,main
+DX-9.4,Upper gastrointestinal disorders,lvl2
+DX139,Gastroduodenal ulcer (except hemorrhage),main
+DX140,Gastritis and duodenitis,main
+DX141,Other disorders of stomach and duodenum,main
+DX142,Appendicitis and other appendiceal conditions,main
+DX-9.6,Lower gastrointestinal disorders,lvl2
+DX143,Abdominal hernia,main
+DX-9.5,Abdominal hernia [143.],lvl2
+DX144,Regional enteritis and ulcerative colitis,main
+DX145,Intestinal obstruction without hernia,main
+DX146,Diverticulosis and diverticulitis,main
+DX147,Anal and rectal conditions,main
+DX148,Peritonitis and intestinal abscess,main
+DX149,Biliary tract disease,main
+DX-9.7,Biliary tract disease [149.],lvl2
+DX151,Other liver diseases,main
+DX-9.8,Liver disease,lvl2
+DX152,Pancreatic disorders (not diabetes),main
+DX-9.9,Pancreatic disorders (not diabetes) [152.],lvl2
+DX153,Gastrointestinal hemorrhage,main
+DX-9.10,Gastrointestinal hemorrhage [153.],lvl2
+DX154,Noninfectious gastroenteritis,main
+DX-9.11,Noninfectious gastroenteritis [154.],lvl2
+DX155,Other gastrointestinal disorders,main
+DX-9.12,Other gastrointestinal disorders [155.],lvl2
+DX156,Nephritis; nephrosis; renal sclerosis,main
+DX-10,Diseases of the genitourinary system,lvl1
+DX-10.1,Diseases of the urinary system,lvl2
+DX157,Acute and unspecified renal failure,main
+DX158,Chronic kidney disease,main
+DX159,Urinary tract infections,main
+DX160,Calculus of urinary tract,main
+DX161,Other diseases of kidney and ureters,main
+DX162,Other diseases of bladder and urethra,main
+DX163,Genitourinary symptoms and ill-defined conditions,main
+DX164,Hyperplasia of prostate,main
+DX-10.2,Diseases of male genital organs,lvl2
+DX165,Inflammatory conditions of male genital organs,main
+DX166,Other male genital disorders,main
+DX167,Nonmalignant breast conditions,main
+DX-10.3,Diseases of female genital organs,lvl2
+DX168,Inflammatory diseases of female pelvic organs,main
+DX169,Endometriosis,main
+DX170,Prolapse of female genital organs,main
+DX171,Menstrual disorders,main
+DX172,Ovarian cyst,main
+DX173,Menopausal disorders,main
+DX174,Female infertility,main
+DX175,Other female genital disorders,main
+DX176,Contraceptive and procreative management,main
+DX-11,Complications of pregnancy; childbirth; and the puerperium,lvl1
+DX-11.1,Contraceptive and procreative management [176.],lvl2
+DX177,Spontaneous abortion,main
+DX-11.2,Abortion-related disorders,lvl2
+DX178,Induced abortion,main
+DX179,Postabortion complications,main
+DX180,Ectopic pregnancy,main
+DX-11.3,Complications mainly related to pregnancy,lvl2
+DX181,Other complications of pregnancy,main
+DX182,Hemorrhage during pregnancy; abruptio placenta; placenta previa,main
+DX183,Hypertension complicating pregnancy; childbirth and the puerperium,main
+DX184,Early or threatened labor,main
+DX185,Prolonged pregnancy,main
+DX186,Diabetes or abnormal glucose tolerance complicating pregnancy; childbirth; or the puerperium,main
+DX187,Malposition; malpresentation,main
+DX-11.4,Indications for care in pregnancy; labor; and delivery,lvl2
+DX188,Fetopelvic disproportion; obstruction,main
+DX189,Previous C-section,main
+DX190,Fetal distress and abnormal forces of labor,main
+DX191,Polyhydramnios and other problems of amniotic cavity,main
+DX192,Umbilical cord complication,main
+DX-11.5,Complications during labor,lvl2
+DX193,OB-related trauma to perineum and vulva,main
+DX194,Forceps delivery,main
+DX195,Other complications of birth; puerperium affecting management of mother,main
+DX-11.6,Other complications of birth; puerperium affecting management of mother [195.],lvl2
+DX196,Other pregnancy and delivery including normal,main
+DX-11.7,Normal pregnancy and/or delivery [196.],lvl2
+DX197,Skin and subcutaneous tissue infections,main
+DX-12,Diseases of the skin and subcutaneous tissue,lvl1
+DX-12.1,Skin and subcutaneous tissue infections [197.],lvl2
+DX198,Other inflammatory condition of skin,main
+DX-12.2,Other inflammatory condition of skin [198.],lvl2
+DX199,Chronic ulcer of skin,main
+DX-12.3,Chronic ulcer of skin [199.],lvl2
+DX200,Other skin disorders,main
+DX-12.4,Other skin disorders [200.],lvl2
+DX201,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),main
+DX-13,Diseases of the musculoskeletal system and connective tissue,lvl1
+DX-13.1,Infective arthritis and osteomyelitis (except that caused by TB or STD) [201.],lvl2
+DX202,Rheumatoid arthritis and related disease,main
+DX-13.2,Non-traumatic joint disorders,lvl2
+DX203,Osteoarthritis,main
+DX204,Other non-traumatic joint disorders,main
+DX205,Spondylosis; intervertebral disc disorders; other back problems,main
+DX-13.3,Spondylosis; intervertebral disc disorders; other back problems [205.],lvl2
+DX206,Osteoporosis,main
+DX-13.4,Osteoporosis [206.],lvl2
+DX207,Pathological fracture,main
+DX-13.5,Pathological fracture [207.],lvl2
+DX208,Acquired foot deformities,main
+DX-13.6,Acquired deformities,lvl2
+DX209,Other acquired deformities,main
+DX210,Systemic lupus erythematosus and connective tissue disorders,main
+DX-13.7,Systemic lupus erythematosus and connective tissue disorders [210.],lvl2
+DX211,Other connective tissue disease,main
+DX-13.8,Other connective tissue disease [211.],lvl2
+DX212,Other bone disease and musculoskeletal deformities,main
+DX-13.9,Other bone disease and musculoskeletal deformities [212.],lvl2
+DX213,Cardiac and circulatory congenital anomalies,main
+DX-14,Congenital anomalies,lvl1
+DX-14.1,Cardiac and circulatory congenital anomalies [213.],lvl2
+DX214,Digestive congenital anomalies,main
+DX-14.2,Digestive congenital anomalies [214.],lvl2
+DX215,Genitourinary congenital anomalies,main
+DX-14.3,Genitourinary congenital anomalies [215.],lvl2
+DX216,Nervous system congenital anomalies,main
+DX-14.4,Nervous system congenital anomalies [216.],lvl2
+DX217,Other congenital anomalies,main
+DX-14.5,Other congenital anomalies [217.],lvl2
+DX218,Liveborn,main
+DX-15,Certain conditions originating in the perinatal period,lvl1
+DX-15.1,Liveborn [218.],lvl2
+DX219,Short gestation; low birth weight; and fetal growth retardation,main
+DX-15.2,Short gestation; low birth weight; and fetal growth retardation [219.],lvl2
+DX220,Intrauterine hypoxia and birth asphyxia,main
+DX-15.3,Intrauterine hypoxia and birth asphyxia [220.],lvl2
+DX221,Respiratory distress syndrome,main
+DX-15.4,Respiratory distress syndrome [221.],lvl2
+DX222,Hemolytic jaundice and perinatal jaundice,main
+DX-15.5,Hemolytic jaundice and perinatal jaundice [222.],lvl2
+DX223,Birth trauma,main
+DX-15.6,Birth trauma [223.],lvl2
+DX224,Other perinatal conditions,main
+DX-15.7,Other perinatal conditions [224.],lvl2
+DX225,Joint disorders and dislocations; trauma-related,main
+DX-16,Injury and poisoning,lvl1
+DX-16.1,Joint disorders and dislocations; trauma-related [225.],lvl2
+DX226,Fracture of neck of femur (hip),main
+DX-16.2,Fractures,lvl2
+DX227,Spinal cord injury,main
+DX-16.3,Spinal cord injury [227.],lvl2
+DX228,Skull and face fractures,main
+DX229,Fracture of upper limb,main
+DX230,Fracture of lower limb,main
+DX231,Other fractures,main
+DX232,Sprains and strains,main
+DX-16.7,Sprains and strains [232.],lvl2
+DX233,Intracranial injury,main
+DX-16.4,Intracranial injury [233.],lvl2
+DX234,Crushing injury or internal injury,main
+DX-16.5,Crushing injury or internal injury [234.],lvl2
+DX235,Open wounds of head; neck; and trunk,main
+DX-16.6,Open wounds,lvl2
+DX236,Open wounds of extremities,main
+DX237,Complication of device; implant or graft,main
+DX-16.10,Complications,lvl2
+DX238,Complications of surgical procedures or medical care,main
+DX239,Superficial injury; contusion,main
+DX-16.8,Superficial injury; contusion [239.],lvl2
+DX240,Burns,main
+DX-16.9,Burns [240.],lvl2
+DX241,Poisoning by psychotropic agents,main
+DX-16.11,Poisoning,lvl2
+DX242,Poisoning by other medications and drugs,main
+DX243,Poisoning by nonmedicinal substances,main
+DX244,Other injuries and conditions due to external causes,main
+DX-16.12,Other injuries and conditions due to external causes [244.],lvl2
+DX245,Syncope,main
+DX-17,Symptoms; signs; and ill-defined conditions and factors influencing health status,lvl1
+DX-17.1,Symptoms; signs; and ill-defined conditions,lvl2
+DX246,Fever of unknown origin,main
+DX247,Lymphadenitis,main
+DX248,Gangrene,main
+DX249,Shock,main
+DX250,Nausea and vomiting,main
+DX251,Abdominal pain,main
+DX252,Malaise and fatigue,main
+DX253,Allergic reactions,main
+DX254,Rehabilitation care; fitting of prostheses; and adjustment of devices,main
+DX-17.2,Factors influencing health care,lvl2
+DX255,Administrative/social admission,main
+DX256,Medical examination/evaluation,main
+DX257,Other aftercare,main
+DX258,Other screening for suspected conditions (not mental disorders or infectious disease),main
+DX259,Residual codes; unclassified,main
+DX-18,Residual codes; unclassified; all E codes [259. and 260.],lvl1
+DX650,Adjustment disorders,main
+DX-5,Mental Illness,lvl1
+DX-5.1,Adjustment disorders [650],lvl2
+DX651,Anxiety disorders,main
+DX-5.2,Anxiety disorders [651],lvl2
+DX652,Attention-deficit conduct and disruptive behavior disorders,main
+DX-5.3,Attention deficit conduct and disruptive behavior disorders [652],lvl2
+DX653,Delirium dementia and amnestic and other cognitive disorders,main
+DX-5.4,Delirium dementia and amnestic and other cognitive disorders [653],lvl2
+DX654,Developmental disorders,main
+DX-5.5,Developmental disorders [654],lvl2
+DX655,Disorders usually diagnosed in infancy childhood or adolescence,main
+DX-5.6,Disorders usually diagnosed in infancy childhood or adolescence [655],lvl2
+DX656,Impulse control disorders NEC,main
+DX-5.7,Impulse control disorders not elsewhere classified [656],lvl2
+DX657,Mood disorders,main
+DX-5.8,Mood disorders [657],lvl2
+DX658,Personality disorders,main
+DX-5.9,Personality disorders [658],lvl2
+DX659,Schizophrenia and other psychotic disorders,main
+DX-5.10,Schizophrenia and other psychotic disorders [659],lvl2
+DX660,Alcohol-related disorders,main
+DX-5.11,Alcohol-related disorders [660],lvl2
+DX661,Substance-related disorders,main
+DX-5.12,Substance-related disorders [661],lvl2
+DX662,Suicide and intentional self-inflicted injury,main
+DX-5.13,Suicide and intentional self-inflicted injury [662],lvl2
+DX663,Screening and history of mental health and substance abuse codes,main
+DX-5.14,Screening and history of mental health and substance abuse codes [663],lvl2
+DX670,Miscellaneous mental health disorders,main
+DX-5.15,Miscellaneous mental disorders [670],lvl2
+DX2601,External cause codes:  Cut/pierce,main
+DX2602,External cause codes:  Drowning/submersion,main
+DX2603,External cause codes:  Fall,main
+DX2604,External cause codes:  Fire/burn,main
+DX2605,External cause codes:  Firearm,main
+DX2606,External cause codes:  Machinery,main
+DX2607,External cause codes:  Motor vehicle traffic (MVT),main
+DX2608,External cause codes:  Pedal cyclist; not MVT,main
+DX2609,External cause codes:  Pedestrian; not MVT,main
+DX2610,External cause codes:  Transport; not MVT,main
+DX2611,External cause codes:  Natural/environment,main
+DX2612,External cause codes:  Overexertion,main
+DX2613,External cause codes:  Poisoning,main
+DX2614,External cause codes:  Struck by; against,main
+DX2615,External cause codes:  Suffocation,main
+DX2616,Adverse effects of medical care,main
+DX2617,Adverse effects of medical drugs,main
+DX2618,External cause codes:  Other specified and classifiable,main
+DX2619,External cause codes:  Other specified; NEC,main
+DX2620,External cause codes:  Unspecified,main
+DX2621,External cause codes:  Place of occurrence,main

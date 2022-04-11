@@ -1,0 +1,545 @@
+CCSR,CCSR_desc,First3,I10DX_Chapter
+BLD001,Nutritional anemia,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+BLD002,Hemolytic anemia,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+BLD003,Aplastic anemia,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+BLD004,Acute posthemorrhagic anemia,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+BLD005,Sickle cell trait/anemia,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+BLD006,Coagulation and hemorrhagic disorders,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+BLD007,Diseases of white blood cells,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+BLD008,Immunity disorders,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+BLD009,Postprocedural or postoperative complications of the spleen,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+BLD010,Other specified and unspecified hematologic conditions,BLD,Diseases of the Blood and Blood Forming Organs and Certain Disorders Involving the Immune Mechanism
+CIR001,Chronic rheumatic heart disease,CIR,Diseases of the Circulatory System
+CIR002,Acute rheumatic heart disease,CIR,Diseases of the Circulatory System
+CIR003,Nonrheumatic and unspecified valve disorders,CIR,Diseases of the Circulatory System
+CIR004,Endocarditis and endocardial disease,CIR,Diseases of the Circulatory System
+CIR005,Myocarditis and cardiomyopathy,CIR,Diseases of the Circulatory System
+CIR006,Pericarditis and pericardial disease,CIR,Diseases of the Circulatory System
+CIR007,Essential hypertension,CIR,Diseases of the Circulatory System
+CIR008,Hypertension with complications and secondary hypertension,CIR,Diseases of the Circulatory System
+CIR009,Acute myocardial infarction,CIR,Diseases of the Circulatory System
+CIR010,Complications of acute myocardial infarction,CIR,Diseases of the Circulatory System
+CIR011,Coronary atherosclerosis and other heart disease,CIR,Diseases of the Circulatory System
+CIR012,Nonspecific chest pain,CIR,Diseases of the Circulatory System
+CIR013,Acute pulmonary embolism,CIR,Diseases of the Circulatory System
+CIR014,Pulmonary heart disease,CIR,Diseases of the Circulatory System
+CIR015,Other and ill-defined heart disease,CIR,Diseases of the Circulatory System
+CIR016,Conduction disorders,CIR,Diseases of the Circulatory System
+CIR017,Cardiac dysrhythmias,CIR,Diseases of the Circulatory System
+CIR018,Cardiac arrest and ventricular fibrillation,CIR,Diseases of the Circulatory System
+CIR019,Heart failure,CIR,Diseases of the Circulatory System
+CIR020,Cerebral infarction,CIR,Diseases of the Circulatory System
+CIR021,Acute hemorrhagic cerebrovascular disease,CIR,Diseases of the Circulatory System
+CIR022,Sequela of hemorrhagic cerebrovascular disease,CIR,Diseases of the Circulatory System
+CIR023,Occlusion or stenosis of precerebral or cerebral arteries without infarction,CIR,Diseases of the Circulatory System
+CIR024,Other and ill-defined cerebrovascular disease,CIR,Diseases of the Circulatory System
+CIR025,Sequela of cerebral infarction and other cerebrovascular disease,CIR,Diseases of the Circulatory System
+CIR026,Peripheral and visceral vascular disease,CIR,Diseases of the Circulatory System
+CIR027,Arterial dissections,CIR,Diseases of the Circulatory System
+CIR028,Gangrene,CIR,Diseases of the Circulatory System
+CIR029,Aortic; peripheral; and visceral artery aneurysms,CIR,Diseases of the Circulatory System
+CIR030,Aortic and peripheral arterial embolism or thrombosis,CIR,Diseases of the Circulatory System
+CIR031,Hypotension,CIR,Diseases of the Circulatory System
+CIR032,Other specified and unspecified circulatory disease,CIR,Diseases of the Circulatory System
+CIR033,Acute phlebitis; thrombophlebitis and thromboembolism,CIR,Diseases of the Circulatory System
+CIR034,Chronic phlebitis; thrombophlebitis and thromboembolism,CIR,Diseases of the Circulatory System
+CIR035,Varicose veins of lower extremity,CIR,Diseases of the Circulatory System
+CIR036,Postthrombotic syndrome and venous insufficiency/hypertension,CIR,Diseases of the Circulatory System
+CIR037,Vasculitis,CIR,Diseases of the Circulatory System
+CIR038,Postprocedural or postoperative circulatory system complication,CIR,Diseases of the Circulatory System
+CIR039,Other specified diseases of veins and lymphatics,CIR,Diseases of the Circulatory System
+DIG001,Intestinal infection,DIG,Diseases of the Digestive System
+DIG002,Disorders of teeth and gingiva,DIG,Diseases of the Digestive System
+DIG003,Diseases of mouth; excluding dental,DIG,Diseases of the Digestive System
+DIG004,Esophageal disorders,DIG,Diseases of the Digestive System
+DIG005,Gastroduodenal ulcer,DIG,Diseases of the Digestive System
+DIG006,Gastrointestinal and biliary perforation,DIG,Diseases of the Digestive System
+DIG007,Gastritis and duodenitis,DIG,Diseases of the Digestive System
+DIG008,Other specified and unspecified disorders of stomach and duodenum,DIG,Diseases of the Digestive System
+DIG009,Appendicitis and other appendiceal conditions,DIG,Diseases of the Digestive System
+DIG010,Abdominal hernia,DIG,Diseases of the Digestive System
+DIG011,Regional enteritis and ulcerative colitis,DIG,Diseases of the Digestive System
+DIG012,Intestinal obstruction and ileus,DIG,Diseases of the Digestive System
+DIG013,Diverticulosis and diverticulitis,DIG,Diseases of the Digestive System
+DIG014,Hemorrhoids,DIG,Diseases of the Digestive System
+DIG015,Anal and rectal conditions,DIG,Diseases of the Digestive System
+DIG016,Peritonitis and intra-abdominal abscess,DIG,Diseases of the Digestive System
+DIG017,Biliary tract disease,DIG,Diseases of the Digestive System
+DIG018,Hepatic failure,DIG,Diseases of the Digestive System
+DIG019,Other specified and unspecified liver disease,DIG,Diseases of the Digestive System
+DIG020,Pancreatic disorders (excluding diabetes),DIG,Diseases of the Digestive System
+DIG021,Gastrointestinal hemorrhage,DIG,Diseases of the Digestive System
+DIG022,Noninfectious gastroenteritis,DIG,Diseases of the Digestive System
+DIG023,Noninfectious hepatitis,DIG,Diseases of the Digestive System
+DIG024,Postprocedural or postoperative digestive system complication,DIG,Diseases of the Digestive System
+DIG025,Other specified and unspecified gastrointestinal disorders,DIG,Diseases of the Digestive System
+EAR001,Otitis media,EAR,Diseases of the Ear and Mastoid Process
+EAR002,Diseases of middle ear and mastoid (except otitis media),EAR,Diseases of the Ear and Mastoid Process
+EAR003,Diseases of inner ear and related conditions,EAR,Diseases of the Ear and Mastoid Process
+EAR004,Hearing loss,EAR,Diseases of the Ear and Mastoid Process
+EAR005,Postprocedural or postoperative ear and/or mastoid process complication,EAR,Diseases of the Ear and Mastoid Process
+EAR006,Other specified and unspecified disorders of the ear,EAR,Diseases of the Ear and Mastoid Process
+END001,Thyroid disorders,END,"Endocrine, Nutritional and Metabolic Diseases"
+END002,Diabetes mellitus without complication,END,"Endocrine, Nutritional and Metabolic Diseases"
+END003,Diabetes mellitus with complication,END,"Endocrine, Nutritional and Metabolic Diseases"
+END004,"Diabetes mellitus, Type 1",END,"Endocrine, Nutritional and Metabolic Diseases"
+END005,"Diabetes mellitus, Type 2",END,"Endocrine, Nutritional and Metabolic Diseases"
+END006,"Diabetes mellitus, due to underlying condition, drug or chemical induced, or other specified type",END,"Endocrine, Nutritional and Metabolic Diseases"
+END007,Nutritional deficiencies,END,"Endocrine, Nutritional and Metabolic Diseases"
+END008,Malnutrition,END,"Endocrine, Nutritional and Metabolic Diseases"
+END009,Obesity,END,"Endocrine, Nutritional and Metabolic Diseases"
+END010,Disorders of lipid metabolism,END,"Endocrine, Nutritional and Metabolic Diseases"
+END011,Fluid and electrolyte disorders,END,"Endocrine, Nutritional and Metabolic Diseases"
+END012,Cystic fibrosis,END,"Endocrine, Nutritional and Metabolic Diseases"
+END013,Pituitary disorders,END,"Endocrine, Nutritional and Metabolic Diseases"
+END014,Postprocedural or postoperative endocrine or metabolic complication,END,"Endocrine, Nutritional and Metabolic Diseases"
+END015,Other specified and unspecified endocrine disorders,END,"Endocrine, Nutritional and Metabolic Diseases"
+END016,Other specified and unspecified nutritional and metabolic disorders,END,"Endocrine, Nutritional and Metabolic Diseases"
+END017,Sequela of malnutrition and other nutritional deficiencies,END,"Endocrine, Nutritional and Metabolic Diseases"
+EXT001,External cause codes: cut/pierce; initial encounter,EXT,External Causes of Morbidity
+EXT002,External cause codes: drowning/submersion; initial encounter,EXT,External Causes of Morbidity
+EXT003,External cause codes: fall; initial encounter,EXT,External Causes of Morbidity
+EXT004,External cause codes: fire/burn; initial encounter,EXT,External Causes of Morbidity
+EXT005,External cause codes: firearm; initial encounter,EXT,External Causes of Morbidity
+EXT006,External cause codes: machinery; initial encounter,EXT,External Causes of Morbidity
+EXT007,External cause codes: motor vehicle traffic (MVT); initial encounter,EXT,External Causes of Morbidity
+EXT008,External cause codes: pedal cyclist; not MVT; initial encounter,EXT,External Causes of Morbidity
+EXT009,External cause codes: pedestrian; not MVT; initial encounter,EXT,External Causes of Morbidity
+EXT010,External cause codes: transport; not MVT; initial encounter,EXT,External Causes of Morbidity
+EXT011,External cause codes: natural/environment; initial encounter,EXT,External Causes of Morbidity
+EXT012,External cause codes: bites; initial encounter,EXT,External Causes of Morbidity
+EXT013,External cause codes: overexertion; initial encounter,EXT,External Causes of Morbidity
+EXT014,External cause codes: poisoning by drug,EXT,External Causes of Morbidity
+EXT015,External cause codes: poisoning by non-drug,EXT,External Causes of Morbidity
+EXT016,External cause codes: struck by; against; initial encounter,EXT,External Causes of Morbidity
+EXT017,External cause codes: suffocation/inhalation; initial encounter,EXT,External Causes of Morbidity
+EXT018,"External cause codes: other specified, classifiable and NEC; initial encounter",EXT,External Causes of Morbidity
+EXT019,External cause codes: unspecified mechanism,EXT,External Causes of Morbidity
+EXT020,"External cause codes: intent of injury, accidental/unintentional",EXT,External Causes of Morbidity
+EXT021,"External cause codes: intent of injury, self-harm",EXT,External Causes of Morbidity
+EXT022,"External cause codes: intent of injury, assault",EXT,External Causes of Morbidity
+EXT023,"External cause codes: intent of injury, undetermined",EXT,External Causes of Morbidity
+EXT024,"External cause codes: intent of injury, legal intervention/war",EXT,External Causes of Morbidity
+EXT025,"External cause codes: complications of medical and surgical care, initial encounter",EXT,External Causes of Morbidity
+EXT026,External cause codes: activity codes,EXT,External Causes of Morbidity
+EXT027,External cause codes: place of occurrence of the external cause,EXT,External Causes of Morbidity
+EXT028,External cause codes: evidence of alcohol involvement,EXT,External Causes of Morbidity
+EXT029,External cause codes: subsequent encounter,EXT,External Causes of Morbidity
+EXT030,External cause codes: sequela,EXT,External Causes of Morbidity
+EYE001,Cornea and external disease,EYE,Diseases of the Eye and Adnexa
+EYE002,Cataract and other lens disorders,EYE,Diseases of the Eye and Adnexa
+EYE003,Glaucoma,EYE,Diseases of the Eye and Adnexa
+EYE004,Uveitis and ocular inflammation,EYE,Diseases of the Eye and Adnexa
+EYE005,Retinal and vitreous conditions,EYE,Diseases of the Eye and Adnexa
+EYE006,Neuro-ophthalmology,EYE,Diseases of the Eye and Adnexa
+EYE007,Strabismus,EYE,Diseases of the Eye and Adnexa
+EYE008,Oculofacial plastics and orbital conditions,EYE,Diseases of the Eye and Adnexa
+EYE009,Refractive error,EYE,Diseases of the Eye and Adnexa
+EYE010,Blindness and vision defects,EYE,Diseases of the Eye and Adnexa
+EYE011,Postprocedural or postoperative eye complication,EYE,Diseases of the Eye and Adnexa
+EYE012,Other specified eye disorders,EYE,Diseases of the Eye and Adnexa
+FAC001,Encounter for administrative purposes,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC002,Encounter for mental health services related to abuse,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC003,"Encounter for observation and examination for conditions ruled out (excludes infectious disease, neoplasm, mental disorders)",FAC,Factors Influencing Health Status and Contact with Health Services
+FAC004,Encounter for prophylactic or other procedures,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC005,Encounter for prophylactic measures (excludes immunization),FAC,Factors Influencing Health Status and Contact with Health Services
+FAC006,Encounter for antineoplastic therapies,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC007,Encounter for mental health conditions,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC008,Neoplasm-related encounters,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC009,"Implant, device or graft related encounter",FAC,Factors Influencing Health Status and Contact with Health Services
+FAC010,Other aftercare encounter,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC011,Counseling related to sexual behavior or orientation,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC012,Other specified encounters and counseling,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC013,Contraceptive and procreative management,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC014,Medical examination/evaluation,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC015,Resistance to antimicrobial drugs,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC016,"Exposure, encounters, screening or contact with infectious disease",FAC,Factors Influencing Health Status and Contact with Health Services
+FAC017,No immunization or underimmunization,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC018,Screening for neurocognitive or neurodevelopmental condition,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC019,Socioeconomic/psychosocial factors,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC020,Lifestyle/life management factors,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC021,Personal/family history of disease,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC022,Acquired absence of limb or organ,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC023,Organ transplant status,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC024,Carrier status,FAC,Factors Influencing Health Status and Contact with Health Services
+FAC025,Other specified status,FAC,Factors Influencing Health Status and Contact with Health Services
+GEN001,Nephritis; nephrosis; renal sclerosis,GEN,Diseases of the Genitourinary System
+GEN002,Acute and unspecified renal failure,GEN,Diseases of the Genitourinary System
+GEN003,Chronic kidney disease,GEN,Diseases of the Genitourinary System
+GEN004,Urinary tract infections,GEN,Diseases of the Genitourinary System
+GEN005,Calculus of urinary tract,GEN,Diseases of the Genitourinary System
+GEN006,Other specified and unspecified diseases of kidney and ureters,GEN,Diseases of the Genitourinary System
+GEN007,Other specified and unspecified diseases of bladder and urethra,GEN,Diseases of the Genitourinary System
+GEN008,Urinary incontinence,GEN,Diseases of the Genitourinary System
+GEN009,Hematuria,GEN,Diseases of the Genitourinary System
+GEN010,Proteinuria,GEN,Diseases of the Genitourinary System
+GEN011,Vesicoureteral reflux,GEN,Diseases of the Genitourinary System
+GEN012,Hyperplasia of prostate,GEN,Diseases of the Genitourinary System
+GEN013,Inflammatory conditions of male genital organs,GEN,Diseases of the Genitourinary System
+GEN014,Erectile dysfunction,GEN,Diseases of the Genitourinary System
+GEN015,Male infertility,GEN,Diseases of the Genitourinary System
+GEN016,Other specified male genital disorders,GEN,Diseases of the Genitourinary System
+GEN017,Nonmalignant breast conditions,GEN,Diseases of the Genitourinary System
+GEN018,Inflammatory diseases of female pelvic organs,GEN,Diseases of the Genitourinary System
+GEN019,Endometriosis,GEN,Diseases of the Genitourinary System
+GEN020,Prolapse of female genital organs,GEN,Diseases of the Genitourinary System
+GEN021,Menstrual disorders,GEN,Diseases of the Genitourinary System
+GEN022,Benign ovarian cyst,GEN,Diseases of the Genitourinary System
+GEN023,Menopausal disorders,GEN,Diseases of the Genitourinary System
+GEN024,Female infertility,GEN,Diseases of the Genitourinary System
+GEN025,Other specified female genital disorders,GEN,Diseases of the Genitourinary System
+GEN026,Postprocedural or postoperative genitourinary system complication,GEN,Diseases of the Genitourinary System
+INF001,Tuberculosis,INF,Certain Infectious and Parasitic Diseases
+INF002,Septicemia,INF,Certain Infectious and Parasitic Diseases
+INF003,Bacterial infections,INF,Certain Infectious and Parasitic Diseases
+INF004,Fungal infections,INF,Certain Infectious and Parasitic Diseases
+INF005,Foodborne intoxications,INF,Certain Infectious and Parasitic Diseases
+INF006,HIV infection,INF,Certain Infectious and Parasitic Diseases
+INF007,Hepatitis,INF,Certain Infectious and Parasitic Diseases
+INF008,Viral infection,INF,Certain Infectious and Parasitic Diseases
+INF009,"Parasitic, other specified and unspecified infections",INF,Certain Infectious and Parasitic Diseases
+INF010,Sexually transmitted infections (excluding HIV and hepatitis),INF,Certain Infectious and Parasitic Diseases
+INF011,Sequela of specified infectious disease conditions,INF,Certain Infectious and Parasitic Diseases
+INF012,Coronavirus disease – 2019 (COVID-19),INF,Certain Infectious and Parasitic Diseases
+INJ001,"Fracture of head and neck, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ002,"Fracture of the spine and back, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ003,"Fracture of torso, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ004,"Fracture of the upper limb, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ005,"Fracture of the lower limb (except hip), initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ006,"Fracture of the neck of the femur (hip), initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ007,"Dislocations, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ008,"Traumatic brain injury (TBI); concussion, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ009,"Spinal cord injury (SCI), initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ010,"Internal organ injury, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ011,"Open wounds of head and neck, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ012,"Open wounds to limbs, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ013,"Open wounds of trunk, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ014,"Amputation of a limb, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ015,"Amputation of other body parts, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ016,"Injury to blood vessels, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ017,"Superficial injury; contusion, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ018,"Crushing injury, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ019,"Burn and corrosion, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ020,"Effect of foreign body entering opening, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ021,"Effect of other external causes, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ022,"Poisoning by drugs, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ023,"Toxic effects, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ024,"Sprains and strains, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ025,"Injury to nerves, muscles and tendons, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ026,Other specified injury,INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ027,Other unspecified injury,INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ028,"Adverse effects of drugs and medicaments, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ029,"Underdosing of drugs and medicaments, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ030,Drug induced or toxic related condition,INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ031,Allergic reactions,INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ032,Maltreatment/abuse,INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ033,"Complication of cardiovascular device, implant or graft, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ034,"Complication of genitourinary device, implant or graft, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ035,"Complication of internal orthopedic device or implant, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ036,"Complication of transplanted organs or tissue, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ037,"Complication of other surgical or medical care, injury, initial encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ038,"Fracture of head and neck, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ039,"Fracture of the spine and back, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ040,"Fracture of torso, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ041,"Fracture of the upper limb, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ042,"Fracture of lower limb (except hip), subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ043,"Fracture of the neck of the femur (hip), subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ044,"Dislocations, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ045,"Traumatic brain injury (TBI); concussion, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ046,"Spinal cord injury (SCI), subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ047,"Internal organ injury, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ048,"Open wounds of head and neck, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ049,"Open wounds to limbs, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ050,"Open wounds of trunk, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ051,"Amputation of a limb, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ052,"Amputation of other body parts, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ053,"Injury to blood vessels, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ054,"Superficial injury; contusion, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ055,"Crushing injury, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ056,"Burns and corrosion, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ057,"Effect of foreign body entering opening, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ058,"Effect of other external causes, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ059,"Poisoning by drugs, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ060,"Toxic effects, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ061,"Sprains and strains, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ062,"Injury to nerves, muscles and tendons, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ063,"Other specified injury, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ064,"Other unspecified injuries, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ065,"Adverse effects of drugs and medicaments, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ066,"Underdosing of drugs and medicaments, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ067,"Allergic reactions, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ068,"Maltreatment/abuse, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ069,"Complication of cardiovascular device, implant or graft, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ070,"Complication of genitourinary device, implant or graft, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ071,"Complication of internal orthopedic device or implant, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ072,"Complication of other surgical or medical care, injury, subsequent encounter",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ073,"Injury, sequela",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ074,"Effect of other external causes, sequela",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ075,"Poisoning/toxic effect/adverse effects/underdosing, sequela",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+INJ076,"Complication, sequela",INJ,"Injury, Poisoning and Certain Other Consequences of External Causes"
+MAL001,Cardiac and circulatory congenital anomalies,MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MAL002,Digestive congenital anomalies,MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MAL003,Genitourinary congenital anomalies,MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MAL004,Nervous system congenital anomalies,MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MAL005,"Congenital malformations of eye, ear, face, neck",MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MAL006,Cleft lip or palate,MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MAL007,Respiratory congenital malformations,MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MAL008,Musculoskeletal congenital conditions,MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MAL009,Chromosomal abnormalities,MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MAL010,Other specified and unspecified congenital anomalies,MAL,"Congenital Malformations, Deformations and Chromosomal Abnormalities"
+MBD001,Schizophrenia spectrum and other psychotic disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD002,Depressive disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD003,Bipolar and related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD004,Other specified and unspecified mood disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD005,Anxiety and fear-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD006,Obsessive-compulsive and related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD007,Trauma- and stressor-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD008,"Disruptive, impulse-control and conduct disorders",MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD009,Personality disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD010,Feeding and eating disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD011,Somatic disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD012,Suicidal ideation/attempt/intentional self-harm,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD013,Miscellaneous mental and behavioral disorders/conditions,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD014,Neurodevelopmental disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD017,Alcohol-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD018,Opioid-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD019,Cannabis-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD020,Sedative-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD021,Stimulant-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD022,Hallucinogen-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD023,Inhalant-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD024,Tobacco-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD025,Other specified substance-related disorders,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD026,Mental and substance use disorders in remission,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD027,Suicide attempt/intentional self-harm; subsequent encounter,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD028,Opioid-related disorders; subsequent encounter,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD029,Stimulant-related disorders; subsequent encounter,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD030,Cannabis-related disorders; subsequent encounter,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD031,Hallucinogen-related disorders; subsequent encounter,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD032,Sedative-related disorders; subsequent encounter,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD033,Inhalant-related disorders; subsequent encounter,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MBD034,Mental and substance use disorders; sequela,MBD,"Mental, Behavioral and Neurodevelopmental Disorders"
+MUS001,Infective arthritis,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS002,Osteomyelitis,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS003,Rheumatoid arthritis and related disease,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS004,Juvenile arthritis,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS005,Other specified chronic arthropathy,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS006,Osteoarthritis,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS007,Other specified joint disorders,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS008,Immune-mediated/reactive arthropathies,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS009,Tendon and synovial disorders,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS010,"Musculoskeletal pain, not low back pain",MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS011,Spondylopathies/spondyloarthropathy (including infective),MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS012,Biomechanical lesions,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS013,Osteoporosis,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS014,"Pathological fracture, initial encounter",MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS015,"Pathological fracture, subsequent encounter",MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS016,"Stress fracture, initial encounter",MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS017,"Stress fracture, subsequent encounter",MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS018,"Atypical fracture, initial encounter",MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS019,"Atypical fracture, subsequent encounter",MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS020,"Pathological, stress and atypical fractures, sequela",MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS021,Acquired foot deformities,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS022,Scoliosis and other postural dorsopathic deformities,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS023,Acquired deformities (excluding foot),MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS024,Systemic lupus erythematosus and connective tissue disorders,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS025,Other specified connective tissue disease,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS026,Muscle disorders,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS027,Musculoskeletal abscess,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS028,Other specified bone disease and musculoskeletal deformities,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS029,Disorders of jaw,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS030,Aseptic necrosis and osteonecrosis,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS031,Traumatic arthropathy,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS032,Neurogenic/neuropathic arthropathy,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS033,Gout,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS034,Crystal arthropathies (excluding gout),MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS035,Osteomalacia,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS036,Autoinflammatory syndromes,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS037,Postprocedural or postoperative musculoskeletal system complication,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+MUS038,Low back pain,MUS,Diseases of the Musculoskeletal System and Connective Tissue
+NEO001,Head and neck cancers - eye,NEO,Neoplasms
+NEO002,Head and neck cancers - lip and oral cavity,NEO,Neoplasms
+NEO003,Head and neck cancers - throat,NEO,Neoplasms
+NEO004,Head and neck cancers - salivary gland,NEO,Neoplasms
+NEO005,Head and neck cancers - nasopharyngeal,NEO,Neoplasms
+NEO006,Head and neck cancers - hypopharyngeal,NEO,Neoplasms
+NEO007,Head and neck cancers - pharyngeal,NEO,Neoplasms
+NEO008,Head and neck cancers - laryngeal,NEO,Neoplasms
+NEO009,Head and neck cancers - tonsils,NEO,Neoplasms
+NEO010,Head and neck cancers - all other types,NEO,Neoplasms
+NEO011,Cardiac cancers,NEO,Neoplasms
+NEO012,Gastrointestinal cancers - esophagus,NEO,Neoplasms
+NEO013,Gastrointestinal cancers - stomach,NEO,Neoplasms
+NEO014,Gastrointestinal cancers - small intestine,NEO,Neoplasms
+NEO015,Gastrointestinal cancers - colorectal,NEO,Neoplasms
+NEO016,Gastrointestinal cancers - anus,NEO,Neoplasms
+NEO017,Gastrointestinal cancers - liver,NEO,Neoplasms
+NEO018,Gastrointestinal cancers - bile duct,NEO,Neoplasms
+NEO019,Gastrointestinal cancers - gallbladder,NEO,Neoplasms
+NEO020,Gastrointestinal cancers - peritoneum,NEO,Neoplasms
+NEO021,Gastrointestinal cancers - all other types,NEO,Neoplasms
+NEO022,Respiratory cancers,NEO,Neoplasms
+NEO023,Bone cancer,NEO,Neoplasms
+NEO024,Sarcoma,NEO,Neoplasms
+NEO025,Skin cancers - melanoma,NEO,Neoplasms
+NEO026,Skin cancers - basal cell carcinoma,NEO,Neoplasms
+NEO027,Skin cancers - squamous cell carcinoma,NEO,Neoplasms
+NEO028,Skin cancers - all other types,NEO,Neoplasms
+NEO029,Breast cancer - ductal carcinoma in situ (DCIS),NEO,Neoplasms
+NEO030,Breast cancer - all other types,NEO,Neoplasms
+NEO031,Female reproductive system cancers - uterus,NEO,Neoplasms
+NEO032,Female reproductive system cancers - cervix,NEO,Neoplasms
+NEO033,Female reproductive system cancers - ovary,NEO,Neoplasms
+NEO034,Female reproductive system cancers - fallopian tube,NEO,Neoplasms
+NEO035,Female reproductive system cancers - endometrium,NEO,Neoplasms
+NEO036,Female reproductive system cancers - vulva,NEO,Neoplasms
+NEO037,Female reproductive system cancers - vagina,NEO,Neoplasms
+NEO038,Female reproductive system cancers - all other types,NEO,Neoplasms
+NEO039,Male reproductive system cancers - prostate,NEO,Neoplasms
+NEO040,Male reproductive system cancers - testis,NEO,Neoplasms
+NEO041,Male reproductive system cancers - penis,NEO,Neoplasms
+NEO042,Male reproductive system cancers - all other types,NEO,Neoplasms
+NEO043,Urinary system cancers - bladder,NEO,Neoplasms
+NEO044,Urinary system cancers - ureter and renal pelvis,NEO,Neoplasms
+NEO045,Urinary system cancers - kidney,NEO,Neoplasms
+NEO046,Urinary system cancers - urethra,NEO,Neoplasms
+NEO047,Urinary system cancers - all other types,NEO,Neoplasms
+NEO048,Nervous system cancers - brain,NEO,Neoplasms
+NEO049,Nervous system cancers - all other types,NEO,Neoplasms
+NEO050,Endocrine system cancers - thyroid,NEO,Neoplasms
+NEO051,Endocrine system cancers - pancreas,NEO,Neoplasms
+NEO052,Endocrine system cancers - thymus,NEO,Neoplasms
+NEO053,Endocrine system cancers - adrenocortical,NEO,Neoplasms
+NEO054,Endocrine system cancers - parathyroid,NEO,Neoplasms
+NEO055,Endocrine system cancers - pituitary gland,NEO,Neoplasms
+NEO056,Endocrine system cancers - all other types,NEO,Neoplasms
+NEO057,Hodgkin lymphoma,NEO,Neoplasms
+NEO058,Non-Hodgkin lymphoma,NEO,Neoplasms
+NEO059,Leukemia - acute lymphoblastic leukemia (ALL),NEO,Neoplasms
+NEO060,Leukemia - acute myeloid leukemia (AML),NEO,Neoplasms
+NEO061,Leukemia - chronic lymphocytic leukemia (CLL),NEO,Neoplasms
+NEO062,Leukemia - chronic myeloid leukemia (CML),NEO,Neoplasms
+NEO063,Leukemia - hairy cell,NEO,Neoplasms
+NEO064,Leukemia - all other types,NEO,Neoplasms
+NEO065,Multiple myeloma,NEO,Neoplasms
+NEO066,Malignant neuroendocrine tumors,NEO,Neoplasms
+NEO067,Mesothelioma,NEO,Neoplasms
+NEO068,Myelodysplastic syndrome (MDS),NEO,Neoplasms
+NEO069,Cancer of other sites,NEO,Neoplasms
+NEO070,Secondary malignancies,NEO,Neoplasms
+NEO071,"Malignant neoplasm, unspecified",NEO,Neoplasms
+NEO072,Neoplasms of unspecified nature or uncertain behavior,NEO,Neoplasms
+NEO073,Benign neoplasms,NEO,Neoplasms
+NEO074,Conditions due to neoplasm or the treatment of neoplasm,NEO,Neoplasms
+NVS001,Meningitis,NVS,Diseases of the Nervous System
+NVS002,Encephalitis,NVS,Diseases of the Nervous System
+NVS003,Other specified CNS infection and poliomyelitis,NVS,Diseases of the Nervous System
+NVS004,Parkinson`s disease,NVS,Diseases of the Nervous System
+NVS005,Multiple sclerosis,NVS,Diseases of the Nervous System
+NVS006,Other nervous system disorders (often hereditary or degenerative),NVS,Diseases of the Nervous System
+NVS007,Cerebral palsy,NVS,Diseases of the Nervous System
+NVS008,Paralysis (other than cerebral palsy),NVS,Diseases of the Nervous System
+NVS009,Epilepsy; convulsions,NVS,Diseases of the Nervous System
+NVS010,Headache; including migraine,NVS,Diseases of the Nervous System
+NVS011,Neurocognitive disorders,NVS,Diseases of the Nervous System
+NVS012,Transient cerebral ischemia,NVS,Diseases of the Nervous System
+NVS013,Coma; stupor; and brain damage,NVS,Diseases of the Nervous System
+NVS014,CNS abscess,NVS,Diseases of the Nervous System
+NVS015,Polyneuropathies,NVS,Diseases of the Nervous System
+NVS016,Sleep wake disorders,NVS,Diseases of the Nervous System
+NVS017,Nerve and nerve root disorders,NVS,Diseases of the Nervous System
+NVS018,Myopathies,NVS,Diseases of the Nervous System
+NVS019,Nervous system pain and pain syndromes,NVS,Diseases of the Nervous System
+NVS020,Other nervous system disorders (neither hereditary nor degenerative),NVS,Diseases of the Nervous System
+NVS021,Postprocedural or postoperative nervous system complication,NVS,Diseases of the Nervous System
+NVS022,Sequela of specified nervous system conditions,NVS,Diseases of the Nervous System
+PNL001,Liveborn,PNL,Certain Conditions Originating in the Perinatal Period
+PNL002,Short gestation; low birth weight; and fetal growth retardation,PNL,Certain Conditions Originating in the Perinatal Period
+PNL003,Neonatal acidemia and hypoxia,PNL,Certain Conditions Originating in the Perinatal Period
+PNL004,Neonatal cerebral disorders,PNL,Certain Conditions Originating in the Perinatal Period
+PNL005,Respiratory distress syndrome,PNL,Certain Conditions Originating in the Perinatal Period
+PNL006,Respiratory perinatal condition,PNL,Certain Conditions Originating in the Perinatal Period
+PNL007,Hemolytic jaundice and perinatal jaundice,PNL,Certain Conditions Originating in the Perinatal Period
+PNL008,Birth trauma,PNL,Certain Conditions Originating in the Perinatal Period
+PNL009,Perinatal infections,PNL,Certain Conditions Originating in the Perinatal Period
+PNL010,Newborn affected by maternal conditions or complications of labor/delivery,PNL,Certain Conditions Originating in the Perinatal Period
+PNL011,Hemorrhagic and hematologic disorders of newborn,PNL,Certain Conditions Originating in the Perinatal Period
+PNL012,Neonatal digestive and feeding disorders,PNL,Certain Conditions Originating in the Perinatal Period
+PNL013,Other specified and unspecified perinatal conditions,PNL,Certain Conditions Originating in the Perinatal Period
+PNL014,Neonatal abstinence syndrome,PNL,Certain Conditions Originating in the Perinatal Period
+PNL015,Fetal alcohol syndrome,PNL,Certain Conditions Originating in the Perinatal Period
+PRG001,Antenatal screening,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG002,Gestational weeks,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG003,Spontaneous abortion and complications of spontaneous abortion,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG004,Induced abortion and complications of termination of pregnancy,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG005,Ectopic pregnancy and complications of ectopic pregnancy,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG006,Molar pregnancy and other abnormal products of conception,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG007,Complications following ectopic and/or molar pregnancy,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG008,Supervision of high-risk pregnancy,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG009,"Early, first or unspecified trimester hemorrhage",PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG010,Hemorrhage after first trimester,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG011,Early or threatened labor,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG012,Multiple gestation,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG013,Maternal care related to fetal conditions,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG014,Polyhydramnios and other problems of amniotic cavity,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG015,Obstetric history affecting care in pregnancy,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG016,Previous C-section,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG017,Maternal care for abnormality of pelvic organs,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG018,Maternal care related to disorders of the placenta and placental implantation,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG019,Diabetes or abnormal glucose tolerance complicating pregnancy; childbirth; or the puerperium,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG020,Hypertension and hypertensive-related conditions complicating pregnancy; childbirth; and the puerperium,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG021,Maternal intrauterine infection,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG022,Prolonged pregnancy,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG023,Complications specified during childbirth,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG024,"Malposition, disproportion or other labor complications",PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG025,Anesthesia complications during pregnancy,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG026,OB-related trauma to perineum and vulva,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG027,Complications specified during the puerperium,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG028,Other specified complications in pregnancy,PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG029,"Uncomplicated pregnancy, delivery or puerperium",PRG,"Pregnancy, Childbirth and the Puerperium"
+PRG030,Maternal outcome of delivery,PRG,"Pregnancy, Childbirth and the Puerperium"
+RSP001,Sinusitis,RSP,Diseases of the Respiratory System
+RSP002,Pneumonia (except that caused by tuberculosis),RSP,Diseases of the Respiratory System
+RSP003,Influenza,RSP,Diseases of the Respiratory System
+RSP004,Acute and chronic tonsillitis,RSP,Diseases of the Respiratory System
+RSP005,Acute bronchitis,RSP,Diseases of the Respiratory System
+RSP006,Other specified upper respiratory infections,RSP,Diseases of the Respiratory System
+RSP007,Other specified and unspecified upper respiratory disease,RSP,Diseases of the Respiratory System
+RSP008,Chronic obstructive pulmonary disease and bronchiectasis,RSP,Diseases of the Respiratory System
+RSP009,Asthma,RSP,Diseases of the Respiratory System
+RSP010,Aspiration pneumonitis,RSP,Diseases of the Respiratory System
+RSP011,"Pleurisy, pleural effusion and pulmonary collapse",RSP,Diseases of the Respiratory System
+RSP012,Respiratory failure; insufficiency; arrest,RSP,Diseases of the Respiratory System
+RSP013,Lung disease due to external agents,RSP,Diseases of the Respiratory System
+RSP014,Pneumothorax,RSP,Diseases of the Respiratory System
+RSP015,Mediastinal disorders,RSP,Diseases of the Respiratory System
+RSP016,Other specified and unspecified lower respiratory disease,RSP,Diseases of the Respiratory System
+RSP017,Postprocedural or postoperative respiratory system complication,RSP,Diseases of the Respiratory System
+SKN001,Skin and subcutaneous tissue infections,SKN,Diseases of the Skin and Subcutaneous Tissue
+SKN002,Other specified inflammatory condition of skin,SKN,Diseases of the Skin and Subcutaneous Tissue
+SKN003,Pressure ulcer of skin,SKN,Diseases of the Skin and Subcutaneous Tissue
+SKN004,Non-pressure ulcer of skin,SKN,Diseases of the Skin and Subcutaneous Tissue
+SKN005,Contact dermatitis,SKN,Diseases of the Skin and Subcutaneous Tissue
+SKN006,Postprocedural or postoperative skin complication,SKN,Diseases of the Skin and Subcutaneous Tissue
+SKN007,Other specified and unspecified skin disorders,SKN,Diseases of the Skin and Subcutaneous Tissue
+SYM001,Syncope,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM002,Fever,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM003,Shock,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM004,Nausea and vomiting,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM005,Dysphagia,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM006,Abdominal pain and other digestive/abdomen signs and symptoms,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM007,Malaise and fatigue,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM008,Symptoms of mental and substance use conditions,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM009,Abnormal findings related to substance use,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM010,Nervous system signs and symptoms,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM011,Genitourinary signs and symptoms,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM012,Circulatory signs and symptoms,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM013,Respiratory signs and symptoms,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM014,Skin/Subcutaneous signs and symptoms,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM015,General sensation/perception signs and symptoms,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM016,Other general signs and symptoms,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+SYM017,Abnormal findings without diagnosis,SYM,"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified"
+XXX000,Code is unacceptable as a principal diagnosis PDX (only used for the inpatient default CCSR),XXX,Unacceptable principal diagnosis (inpatient data) or first-listed diagnosis (outpatient data)
+XXX111,Code is unacceptable as a first-listed diagnosis DX1 (only used for the outpatient default CCSR),XXX,Unacceptable principal diagnosis (inpatient data) or first-listed diagnosis (outpatient data)
+NoDX1,Only used for the default CCSR when the principal or first-listed diagnosis is missing,NoD,NA
+InvlDX,Used to indicate the diagnosis was invalid and could not be assigned a CCSR category,Inv,NA

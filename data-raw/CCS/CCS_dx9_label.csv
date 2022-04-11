@@ -1,0 +1,1012 @@
+CCS,CCS_label,CCS_Level
+DX0,No DX,main
+DX1,Tuberculosis,main
+DX-1,Infectious and parasitic diseases,lvl1
+DX-1.1,Bacterial infection,lvl2
+DX-1.1.1,Tuberculosis [1.],lvl3
+DX2,Septicemia,main
+DX-1.1.2,Septicemia (except in labor) [2.],lvl3
+DX-1.1.2.5,Other specified septicemia,lvl4
+DX-1.1.2.1,Streptococcal septicemia,lvl4
+DX-1.1.2.2,Staphylococcal septicemia,lvl4
+DX-1.1.2.4,Other gram negative septicemia,lvl4
+DX-1.1.2.3,E. Coli septicemia,lvl4
+DX-1.1.2.6,Unspecified septicemia,lvl4
+DX3,Oth bact inf,main
+DX-1.1.4,Other bacterial infections [3.],lvl3
+DX4,Mycoses,main
+DX-1.2,Mycoses [4.],lvl2
+DX-1.2.2,Other mycoses,lvl3
+DX-1.2.1,Candidiasis of the mouth (thrush),lvl3
+DX5,HIV infectn,main
+DX-1.3,Viral infection,lvl2
+DX-1.3.1,HIV infection [5.],lvl3
+DX6,Hepatitis,main
+DX-1.3.2,Hepatitis [6.],lvl3
+DX7,Viral infect,main
+DX-1.3.3,Other viral infections [7.],lvl3
+DX-1.3.3.3,Other and unspecified viral infection,lvl4
+DX-1.3.3.1,Herpes zoster infection,lvl4
+DX-1.3.3.2,Herpes simplex infection,lvl4
+DX8,Oth infectns,main
+DX-1.4,Other infections; including parasitic [8.],lvl2
+DX9,Sexual Infxs,main
+DX-1.1.3,Sexually transmitted infections (not HIV or hepatitis) [9.],lvl3
+DX10,Immuniz/scrn,main
+DX-1.5,Immunizations and screening for infectious disease [10.],lvl2
+DX11,Hd/nck cancr,main
+DX-2,Neoplasms,lvl1
+DX-2.11,Cancer; other primary,lvl2
+DX-2.11.1,Cancer of head and neck [11.],lvl3
+DX12,Esoph cancer,main
+DX-2.2,Other gastrointestinal cancer,lvl2
+DX-2.2.1,Cancer of esophagus [12.],lvl3
+DX13,Stomch cancr,main
+DX-2.2.2,Cancer of stomach [13.],lvl3
+DX14,Colon cancer,main
+DX-2.1,Colorectal cancer,lvl2
+DX-2.1.1,Cancer of colon [14.],lvl3
+DX15,Rctm/anus ca,main
+DX-2.1.2,Cancer of rectum and anus [15.],lvl3
+DX16,Liver/ibd ca,main
+DX-2.2.3,Cancer of liver and intrahepatic bile duct [16.],lvl3
+DX17,Pancreas can,main
+DX-2.2.4,Cancer of pancreas [17.],lvl3
+DX18,GI/perit can,main
+DX-2.2.5,Cancer of other GI organs; peritoneum [18.],lvl3
+DX19,Brnch/lng ca,main
+DX-2.3,Cancer of bronchus; lung [19.],lvl2
+DX20,Ot respir ca,main
+DX-2.11.2,Cancer; other respiratory and intrathoracic [20.],lvl3
+DX21,Bone/ct cncr,main
+DX-2.11.3,Cancer of bone and connective tissue [21.],lvl3
+DX22,Skin melanom,main
+DX-2.4,Cancer of skin,lvl2
+DX-2.4.1,Melanomas of skin [22.],lvl3
+DX23,Non-epith ca,main
+DX-2.4.2,Other non-epithelial cancer of skin [23.],lvl3
+DX24,Breast cancr,main
+DX-2.5,Cancer of breast [24.],lvl2
+DX25,Uterus cancr,main
+DX-2.6,Cancer of uterus and cervix,lvl2
+DX-2.6.1,Cancer of uterus [25.],lvl3
+DX26,Cervix cancr,main
+DX-2.6.2,Cancer of cervix [26.],lvl3
+DX27,Ovary cancer,main
+DX-2.7,Cancer of ovary and other female genital organs,lvl2
+DX-2.7.1,Cancer of ovary [27.],lvl3
+DX28,Fem genit ca,main
+DX-2.7.2,Cancer of other female genital organs [28.],lvl3
+DX29,Prostate can,main
+DX-2.8,Cancer of male genital organs,lvl2
+DX-2.8.1,Cancer of prostate [29.],lvl3
+DX30,Testis cancr,main
+DX-2.8.2,Cancer of testis [30.],lvl3
+DX31,Mal genit ca,main
+DX-2.8.3,Cancer of other male genital organs [31.],lvl3
+DX32,Bladder cncr,main
+DX-2.9,Cancer of urinary organs,lvl2
+DX-2.9.1,Cancer of bladder [32.],lvl3
+DX33,Kidny/rnl ca,main
+DX-2.9.2,Cancer of kidney and renal pelvis [33.],lvl3
+DX34,Uriny org ca,main
+DX-2.9.3,Cancer of other urinary organs [34.],lvl3
+DX35,Brain/ns can,main
+DX-2.11.4,Cancer of brain and nervous system [35.],lvl3
+DX36,Thyroid cncr,main
+DX-2.11.5,Cancer of thyroid [36.],lvl3
+DX37,Hodgkin-s ds,main
+DX-2.10,Cancer of lymphatic and hematopoietic tissue,lvl2
+DX-2.10.1,Hodgkins disease [37.],lvl3
+DX38,Non-Hodg lym,main
+DX-2.10.2,Non-Hodgkins lymphoma [38.],lvl3
+DX39,Leukemias,main
+DX-2.10.3,Leukemias [39.],lvl3
+DX40,Mult myeloma,main
+DX-2.10.4,Multiple myeloma [40.],lvl3
+DX41,Ot primry ca,main
+DX-2.11.6,Cancer; other and unspecified primary [41.],lvl3
+DX42,2ndary malig,main
+DX-2.12,Secondary malignancies [42.],lvl2
+DX-2.12.1,Secondary malignancy of lymph nodes,lvl3
+DX-2.12.2,Secondary malignancy of lung,lvl3
+DX-2.12.6,Other secondary malignancy,lvl3
+DX-2.12.3,Secondary malignancy of liver,lvl3
+DX-2.12.4,Secondary malignancy of brain/spine,lvl3
+DX-2.12.5,Secondary malignancy of bone,lvl3
+DX43,Malig neopls,main
+DX-2.13,Malignant neoplasm without specification of site [43.],lvl2
+DX44,Neoplsm unsp,main
+DX-2.14,Neoplasms of unspecified nature or uncertain behavior [44.],lvl2
+DX45,Maint chem/r,main
+DX-2.15,Maintenance chemotherapy; radiotherapy [45.],lvl2
+DX-2.15.1,Radiotherapy,lvl3
+DX-2.15.2,Chemotherapy,lvl3
+DX46,Bnign ut neo,main
+DX-2.16,Benign neoplasms,lvl2
+DX-2.16.1,Benign neoplasm of uterus [46.],lvl3
+DX47,Ot bnign neo,main
+DX-2.16.2,Other and unspecified benign neoplasm [47.],lvl3
+DX-2.16.2.5,Other and unspecified benign neoplasms,lvl4
+DX-2.16.2.2,Benign neoplasm of colon,lvl4
+DX-2.16.2.1,Benign neoplasm of ovary,lvl4
+DX-2.16.2.4,Benign neoplasm of cerebral meninges,lvl4
+DX-2.16.2.3,Benign neoplasm of the thyroid,lvl4
+DX48,Thyroid dsor,main
+DX-3,Endocrine; nutritional; and metabolic diseases and immunity disorders,lvl1
+DX-3.1,Thyroid disorders [48.],lvl2
+DX-3.1.2,Other thyroid disorders,lvl3
+DX-3.1.1,Thyrotoxicosis with or without goiter,lvl3
+DX49,DiabMel no c,main
+DX-3.2,Diabetes mellitus without complication [49.],lvl2
+DX50,DiabMel w/cm,main
+DX-3.3,Diabetes mellitus with complications [50.],lvl2
+DX-3.3.1,Diabetes with ketoacidosis or uncontrolled diabetes,lvl3
+DX-3.3.7,Diabetes with other manifestations,lvl3
+DX-3.3.2,Diabetes with renal manifestations,lvl3
+DX-3.3.3,Diabetes with ophthalmic manifestations,lvl3
+DX-3.3.4,Diabetes with neurological manifestations,lvl3
+DX-3.3.5,Diabetes with circulatory manifestations,lvl3
+DX-3.3.6,Diabetes with unspecified complications,lvl3
+DX51,Ot endo dsor,main
+DX-3.4,Other endocrine disorders [51.],lvl2
+DX52,Nutrit defic,main
+DX-3.5,Nutritional deficiencies [52.],lvl2
+DX-3.5.2,Other malnutrition,lvl3
+DX-3.5.1,Unspecified protein-calorie malnutrition,lvl3
+DX53,Hyperlipidem,main
+DX-3.6,Disorders of lipid metabolism [53.],lvl2
+DX54,Gout/ot crys,main
+DX-3.7,Gout and other crystal arthropathies [54.],lvl2
+DX55,Fluid/elc dx,main
+DX-3.8,Fluid and electrolyte disorders [55.],lvl2
+DX-3.8.5,Other fluid and electrolyte disorders,lvl3
+DX-3.8.1,Hyposmolality,lvl3
+DX-3.8.2,Hypovolemia,lvl3
+DX-3.8.3,Hyperpotassemia,lvl3
+DX-3.8.4,Hypopotassemia,lvl3
+DX56,Cystic fibro,main
+DX-3.9,Cystic fibrosis [56.],lvl2
+DX57,Immunity dx,main
+DX-3.10,Immunity disorders [57.],lvl2
+DX58,Ot nutrit dx,main
+DX-3.11,Other nutritional; endocrine; and metabolic disorders [58.],lvl2
+DX-3.11.3,Other and unspecified metabolic; nutritional; and endocrine disorders,lvl3
+DX-3.11.1,Disorders of mineral metabolism,lvl3
+DX-3.11.2,Obesity,lvl3
+DX59,Anemia,main
+DX-4,Diseases of the blood and blood-forming organs,lvl1
+DX-4.1,Anemia,lvl2
+DX-4.1.3,Deficiency and other anemia [59.],lvl3
+DX-4.1.3.4,Chronic blood loss anemia,lvl4
+DX-4.1.3.1,Iron deficiency anemia,lvl4
+DX-4.1.3.2,Other deficiency anemia,lvl4
+DX-4.1.3.6,Other specified anemia,lvl4
+DX-4.1.3.5,Acquired hemolytic anemia,lvl4
+DX-4.1.3.3,Aplastic anemia,lvl4
+DX-4.1.3.7,Anemia; unspecified,lvl4
+DX60,Acut p-h anm,main
+DX-4.1.1,Acute posthemorrhagic anemia [60.],lvl3
+DX61,Sickle cell,main
+DX-4.1.2,Sickle cell anemia [61.],lvl3
+DX62,Coag/hemr dx,main
+DX-4.2,Coagulation and hemorrhagic disorders [62.],lvl2
+DX-4.2.1,Coagulation defects,lvl3
+DX-4.2.3,Other coagulation and hemorrhagic disorders,lvl3
+DX-4.2.2,Thrombocytopenia,lvl3
+DX63,Wht blood dx,main
+DX-4.3,Diseases of white blood cells [63.],lvl2
+DX64,Ot hematl dx,main
+DX-4.4,Other hematologic conditions [64.],lvl2
+DX76,Meningitis,main
+DX-6,Diseases of the nervous system and sense organs,lvl1
+DX-6.1,Central nervous system infection,lvl2
+DX-6.1.1,Meningitis (except that caused by TB or STD) [76.],lvl3
+DX77,Encephalitis,main
+DX-6.1.2,Encephalitis (except that caused by TB or STD) [77.],lvl3
+DX78,Oth CNS infx,main
+DX-6.1.3,Other CNS infection and poliomyelitis [78.],lvl3
+DX79,Parkinson-s,main
+DX-6.2,Hereditary and degenerative nervous system conditions,lvl2
+DX-6.2.1,Parkinsons disease [79.],lvl3
+DX80,MS,main
+DX-6.2.2,Multiple sclerosis [80.],lvl3
+DX81,Ot hered CNS,main
+DX-6.2.3,Other hereditary and degenerative nervous system conditions [81.],lvl3
+DX-6.2.3.2,Other and unspecified hereditary and degenerative nervous conditions,lvl4
+DX-6.2.3.1,Disorders of the autonomic nervous system,lvl4
+DX82,Paralysis,main
+DX-6.3,Paralysis [82.],lvl2
+DX-6.3.1,Hemiplegia,lvl3
+DX-6.3.2,Other paralysis,lvl3
+DX83,Epilepsy/cnv,main
+DX-6.4,Epilepsy; convulsions [83.],lvl2
+DX-6.4.1,Epilepsy,lvl3
+DX-6.4.2,Convulsions,lvl3
+DX84,Headache/mig,main
+DX-6.5,Headache; including migraine [84.],lvl2
+DX-6.5.1,Migraine,lvl3
+DX-6.5.2,Other headache,lvl3
+DX85,Coma/brn dmg,main
+DX-6.6,Coma; stupor; and brain damage [85.],lvl2
+DX86,Cataract,main
+DX-6.7,Eye disorders,lvl2
+DX-6.7.1,Cataract [86.],lvl3
+DX87,Retinal dx,main
+DX-6.7.2,Retinal detachments; defects; vascular occlusion; and retinopathy [87.],lvl3
+DX-6.7.2.1,Retinal detachment with defect,lvl4
+DX-6.7.2.2,Other retinal detachment or defect,lvl4
+DX-6.7.2.3,Other retinal disorders,lvl4
+DX88,Glaucoma,main
+DX-6.7.3,Glaucoma [88.],lvl3
+DX89,Blindness,main
+DX-6.7.4,Blindness and vision defects [89.],lvl3
+DX90,Eye infectn,main
+DX-6.7.5,Inflammation; infection of eye (except that caused by TB or STD) [90.],lvl3
+DX91,Other eye dx,main
+DX-6.7.6,Other eye disorders [91.],lvl3
+DX92,Otitis media,main
+DX-6.8,Ear conditions,lvl2
+DX-6.8.1,Otitis media and related conditions [92.],lvl3
+DX-6.8.1.2,Other otitis media and related conditions,lvl4
+DX-6.8.1.1,Suppurative and unspecified otitis media,lvl4
+DX93,Dizziness,main
+DX-6.8.2,Conditions associated with dizziness or vertigo [93.],lvl3
+DX94,Other ear dx,main
+DX-6.8.3,Other ear and sense organ disorders [94.],lvl3
+DX95,Oth nerv dx,main
+DX-6.9,Other nervous system disorders [95.],lvl2
+DX-6.9.2,Other central nervous system disorders,lvl3
+DX-6.9.3,Other nervous system symptoms and disorders,lvl3
+DX-6.9.1,Disorders of the peripheral nervous system,lvl3
+DX96,Hrt valve dx,main
+DX-7,Diseases of the circulatory system,lvl1
+DX-7.2,Diseases of the heart,lvl2
+DX-7.2.1,Heart valve disorders [96.],lvl3
+DX-7.2.1.1,Chronic rheumatic disease of the heart valves,lvl4
+DX-7.2.1.2,Nonrheumatic mitral valve disorders,lvl4
+DX-7.2.1.3,Nonrheumatic aortic valve disorders,lvl4
+DX-7.2.1.4,Other heart valve disorders,lvl4
+DX97,Carditis,main
+DX-7.2.2,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by TB or STD) [97.],lvl3
+DX-7.2.2.2,Other peri-; endo-; and myocarditis,lvl4
+DX-7.2.2.1,Cardiomyopathy,lvl4
+DX98,HTN,main
+DX-7.1,Hypertension,lvl2
+DX-7.1.1,Essential hypertension [98.],lvl3
+DX99,Htn complicn,main
+DX-7.1.2,Hypertension with complications and secondary hypertension [99.],lvl3
+DX-7.1.2.2,Other hypertensive complications,lvl4
+DX-7.1.2.1,Hypertensive heart and/or renal disease,lvl4
+DX100,Acute MI,main
+DX-7.2.3,Acute myocardial infarction [100.],lvl3
+DX101,Coron athero,main
+DX-7.2.4,Coronary atherosclerosis and other heart disease [101.],lvl3
+DX-7.2.4.3,Other acute and subacute forms of ischemic heart disease,lvl4
+DX-7.2.4.2,Unstable angina (intermediate coronary syndrome),lvl4
+DX-7.2.4.5,Other forms of chronic heart disease,lvl4
+DX-7.2.4.1,Angina pectoris,lvl4
+DX-7.2.4.4,Coronary atherosclerosis,lvl4
+DX102,Chest pain,main
+DX-7.2.5,Nonspecific chest pain [102.],lvl3
+DX103,Pulm hart dx,main
+DX-7.2.6,Pulmonary heart disease [103.],lvl3
+DX104,Oth heart dx,main
+DX-7.2.7,Other and ill-defined heart disease [104.],lvl3
+DX105,Conduction,main
+DX-7.2.8,Conduction disorders [105.],lvl3
+DX-7.2.8.1,Atrioventricular block,lvl4
+DX-7.2.8.2,Bundle branch block,lvl4
+DX-7.2.8.4,Other conduction disorders,lvl4
+DX-7.2.8.3,Anomalous atrioventricular excitation,lvl4
+DX106,Dysrhythmia,main
+DX-7.2.9,Cardiac dysrhythmias [106.],lvl3
+DX-7.2.9.1,Paroxysmal supraventricular tachycardia,lvl4
+DX-7.2.9.2,Paroxysmal ventricular tachycardia,lvl4
+DX-7.2.9.7,Other cardiac dysrhythmias,lvl4
+DX-7.2.9.3,Atrial fibrillation,lvl4
+DX-7.2.9.4,Atrial flutter,lvl4
+DX-7.2.9.5,Premature beats,lvl4
+DX-7.2.9.6,Sinoatrial node dysfunction,lvl4
+DX107,Cardia arrst,main
+DX-7.2.10,Cardiac arrest and ventricular fibrillation [107.],lvl3
+DX108,chf;nonhp,main
+DX-7.2.11,Congestive heart failure; nonhypertensive [108.],lvl3
+DX-7.2.11.2,Heart failure,lvl4
+DX-7.2.11.1,Congestive heart failure,lvl4
+DX109,Acute CVD,main
+DX-7.3,Cerebrovascular disease,lvl2
+DX-7.3.1,Acute cerebrovascular disease [109.],lvl3
+DX-7.3.1.3,Acute but ill-defined cerebrovascular accident,lvl4
+DX-7.3.1.1,Intracranial hemorrhage,lvl4
+DX-7.3.1.2,Occlusion of cerebral arteries,lvl4
+DX110,Precere occl,main
+DX-7.3.2,Occlusion or stenosis of precerebral arteries [110.],lvl3
+DX111,Other CVD,main
+DX-7.3.3,Other and ill-defined cerebrovascular disease [111.],lvl3
+DX112,TIA,main
+DX-7.3.4,Transient cerebral ischemia [112.],lvl3
+DX113,Late eff CVD,main
+DX-7.3.5,Late effects of cerebrovascular disease [113.],lvl3
+DX114,Perip athero,main
+DX-7.4,Diseases of arteries; arterioles; and capillaries,lvl2
+DX-7.4.1,Peripheral and visceral atherosclerosis [114.],lvl3
+DX-7.4.1.3,Other peripheral and visceral atherosclerosis,lvl4
+DX-7.4.1.1,Atherosclerosis of arteries of extremities,lvl4
+DX-7.4.1.2,Peripheral vascular disease unspecified,lvl4
+DX115,Aneurysm,main
+DX-7.4.2,Aortic; peripheral; and visceral artery aneurysms [115.],lvl3
+DX-7.4.2.2,Other aneurysm,lvl4
+DX-7.4.2.1,Abdominal aortic aneurysm; without rupture,lvl4
+DX116,Art embolism,main
+DX-7.4.3,Aortic and peripheral arterial embolism or thrombosis [116.],lvl3
+DX-7.4.3.2,Other arterial embolism and thrombosis,lvl4
+DX-7.4.3.1,Arterial embolism and thrombosis of lower extremity artery,lvl4
+DX117,Ot circul dx,main
+DX-7.4.4,Other circulatory disease [117.],lvl3
+DX-7.4.4.2,Other and unspecified circulatory disease,lvl4
+DX-7.4.4.1,Hypotension,lvl4
+DX118,Phlebitis,main
+DX-7.5,Diseases of veins and lymphatics,lvl2
+DX-7.5.1,Phlebitis; thrombophlebitis and thromboembolism [118.],lvl3
+DX-7.5.1.1,Phlebitis and thrombophlebitis,lvl4
+DX-7.5.1.2,Other venous embolism and thrombosis,lvl4
+DX119,Varicose vn,main
+DX-7.5.2,Varicose veins of lower extremity [119.],lvl3
+DX120,Hemmorhoids,main
+DX-7.5.3,Hemorrhoids [120.],lvl3
+DX121,Oth vein dx,main
+DX-7.5.4,Other diseases of veins and lymphatics [121.],lvl3
+DX122,Pneumonia,main
+DX-8,Diseases of the respiratory system,lvl1
+DX-8.1,Respiratory infections,lvl2
+DX-8.1.1,Pneumonia (except that caused by TB or STD) [122.],lvl3
+DX-8.1.1.2,Other bacterial pneumonia,lvl4
+DX-8.1.1.4,Other pneumonia,lvl4
+DX-8.1.1.1,Pneumococcal pneumonia,lvl4
+DX-8.1.1.3,Pneumonia; organism unspecified,lvl4
+DX123,Influenza,main
+DX-8.1.2,Influenza [123.],lvl3
+DX124,Tonsillitis,main
+DX-8.1.3,Acute and chronic tonsillitis [124.],lvl3
+DX125,Bronchitis,main
+DX-8.1.4,Acute bronchitis [125.],lvl3
+DX126,Ot up rsp in,main
+DX-8.1.5,Other upper respiratory infections [126.],lvl3
+DX-8.1.5.4,Other and unspecified upper respiratory infections,lvl4
+DX-8.1.5.3,Croup,lvl4
+DX-8.1.5.1,Acute upper respiratory infections of multiple or unspecified sites,lvl4
+DX-8.1.5.2,Chronic sinusitis,lvl4
+DX127,COPD,main
+DX-8.2,Chronic obstructive pulmonary disease and bronchiectasis [127.],lvl2
+DX-8.2.4,Other chronic pulmonary disease,lvl3
+DX-8.2.3,Obstructive chronic bronchitis,lvl3
+DX-8.2.1,Emphysema,lvl3
+DX-8.2.2,Chronic airway obstruction; not otherwise specified,lvl3
+DX128,Asthma,main
+DX-8.3,Asthma [128.],lvl2
+DX-8.3.2,Other and unspecified asthma,lvl3
+DX-8.3.2.1,Other asthma without status asthmaticus or exacerbation,lvl4
+DX-8.3.2.2,Other asthma with status asthmaticus,lvl4
+DX-8.3.2.3,Other asthma with acute exacerbation,lvl4
+DX-8.3.1,Chronic obstructive asthma,lvl3
+DX-8.3.1.1,Chronic obstructive asthma without status asthmaticus or exacerbation,lvl4
+DX-8.3.1.2,Chronic obstructive asthma with status asthmaticus,lvl4
+DX-8.3.1.3,Chronic obstructive asthma with acute exacerbation,lvl4
+DX129,Asp pneumon,main
+DX-8.4,Aspiration pneumonitis; food/vomitus [129.],lvl2
+DX130,Pleurisy,main
+DX-8.5,Pleurisy; pneumothorax; pulmonary collapse [130.],lvl2
+DX-8.5.3,Empyema and pneumothorax,lvl3
+DX-8.5.1,Pleurisy; pleural effusion,lvl3
+DX-8.5.2,Pulmonary collapse; interstitial and compensatory emphysema,lvl3
+DX131,Adlt resp fl,main
+DX-8.6,Respiratory failure; insufficiency; arrest (adult) [131.],lvl2
+DX-8.6.2,Other respiratory insufficiency,lvl3
+DX-8.6.1,Respiratory failure,lvl3
+DX132,Lung externl,main
+DX-8.7,Lung disease due to external agents [132.],lvl2
+DX133,Oth low resp,main
+DX-8.8,Other lower respiratory disease [133.],lvl2
+DX-8.8.3,Other and unspecified lower respiratory disease,lvl3
+DX-8.8.1,Postinflammatory pulmonary fibrosis,lvl3
+DX-8.8.2,Painful respiration,lvl3
+DX134,Ot uppr resp,main
+DX-8.9,Other upper respiratory disease [134.],lvl2
+DX135,Intest infct,main
+DX-9,Diseases of the digestive system,lvl1
+DX-9.1,Intestinal infection [135.],lvl2
+DX136,Teeth dx,main
+DX-9.2,Disorders of teeth and jaw [136.],lvl2
+DX137,Mouth dx,main
+DX-9.3,Diseases of mouth; excluding dental [137.],lvl2
+DX138,Esophgeal dx,main
+DX-9.4,Upper gastrointestinal disorders,lvl2
+DX-9.4.1,Esophageal disorders [138.],lvl3
+DX-9.4.1.2,Other esophageal disorders,lvl4
+DX-9.4.1.1,Esophagitis,lvl4
+DX139,Gasduo ulcer,main
+DX-9.4.2,Gastroduodenal ulcer (except hemorrhage) [139.],lvl3
+DX-9.4.2.1,Gastric ulcer,lvl4
+DX-9.4.2.2,Duodenal ulcer,lvl4
+DX-9.4.2.3,Peptic ulcer; site unspecified,lvl4
+DX-9.4.2.4,Gastrojejunal ulcer,lvl4
+DX140,Gastritis,main
+DX-9.4.3,Gastritis and duodenitis [140.],lvl3
+DX-9.4.3.1,Acute gastritis,lvl4
+DX-9.4.3.2,Other specified gastritis,lvl4
+DX-9.4.3.3,Unspecified gastritis and gastroduodenitis,lvl4
+DX-9.4.3.4,Duodenitis,lvl4
+DX141,Ot dx stomch,main
+DX-9.4.4,Other disorders of stomach and duodenum [141.],lvl3
+DX142,Appendicitis,main
+DX-9.6,Lower gastrointestinal disorders,lvl2
+DX-9.6.1,Appendicitis and other appendiceal conditions [142.],lvl3
+DX-9.6.1.1,Acute appendicitis with abscess or peritonitis,lvl4
+DX-9.6.1.2,Acute appendicitis without abscess or peritonitis,lvl4
+DX-9.6.1.3,Acute appendicitis; not otherwise specified,lvl4
+DX-9.6.1.4,Other appendiceal conditions,lvl4
+DX143,Abdom hernia,main
+DX-9.5,Abdominal hernia [143.],lvl2
+DX-9.5.1,Inguinal hernia,lvl3
+DX-9.5.1.1,Inguinal hernia with obstruction or gangrene,lvl4
+DX-9.5.1.2,Inguinal hernia without obstruction or gangrene,lvl4
+DX-9.5.3,Other abdominal hernia,lvl3
+DX-9.5.3.1,Femoral hernia with obstruction/gangrene,lvl4
+DX-9.5.3.3,Umbilical hernia with obstruction/gangrene,lvl4
+DX-9.5.3.5,Ventral hernia with obstruction/gangrene,lvl4
+DX-9.5.3.7,Incisional hernia with obstruction/gangrene,lvl4
+DX-9.5.2,Diaphragmatic hernia,lvl3
+DX-9.5.3.9,Other and unspecified hernia,lvl4
+DX-9.5.3.2,Femoral hernia without obstruction/gangrene,lvl4
+DX-9.5.3.4,Umbilical hernia without obstruction/gangrene,lvl4
+DX-9.5.3.6,Ventral hernia without obstruction/gangrene,lvl4
+DX-9.5.3.8,Incisional hernia without obstruction/gangrene,lvl4
+DX144,Ulcerat col,main
+DX-9.6.2,Regional enteritis and ulcerative colitis [144.],lvl3
+DX145,Int obstruct,main
+DX-9.6.3,Intestinal obstruction without hernia [145.],lvl3
+DX-9.6.3.4,Other intestinal obstruction,lvl4
+DX-9.6.3.1,Paralytic ileus,lvl4
+DX-9.6.3.2,Impaction of intestine,lvl4
+DX-9.6.3.3,Peritoneal or intestinal adhesions,lvl4
+DX146,Diverticulos,main
+DX-9.6.4,Diverticulosis and diverticulitis [146.],lvl3
+DX-9.6.4.1,Diverticulosis,lvl4
+DX-9.6.4.2,Diverticulitis,lvl4
+DX147,Anal/rectal,main
+DX-9.6.5,Anal and rectal conditions [147.],lvl3
+DX148,Peritonitis,main
+DX-9.6.6,Peritonitis and intestinal abscess [148.],lvl3
+DX149,Biliary dx,main
+DX-9.7,Biliary tract disease [149.],lvl2
+DX-9.7.1,Cholelithiasis with acute cholecystitis,lvl3
+DX-9.7.2,Cholelithiasis with other cholecystitis,lvl3
+DX-9.7.3,Cholelithiasis without mention of cholecystitis,lvl3
+DX-9.7.4,Calculus of bile duct,lvl3
+DX-9.7.5,Cholecystitis without cholelithiasis,lvl3
+DX-9.7.6,Other biliary tract disease,lvl3
+DX151,Oth liver dx,main
+DX-9.8,Liver disease,lvl2
+DX-9.8.2,Other liver diseases [151.],lvl3
+DX-9.8.2.4,Other and unspecified liver disorders,lvl4
+DX-9.8.2.1,Cirrhosis of liver without mention of alcohol,lvl4
+DX-9.8.2.2,Liver abscess and sequelae of chronic liver disease,lvl4
+DX-9.8.2.3,Ascites,lvl4
+DX152,Pancreas dx,main
+DX-9.9,Pancreatic disorders (not diabetes) [152.],lvl2
+DX-9.9.1,Acute pancreatitis,lvl3
+DX-9.9.2,Chronic pancreatitis,lvl3
+DX-9.9.3,Other pancreatic disorders,lvl3
+DX153,GI hemorrhag,main
+DX-9.10,Gastrointestinal hemorrhage [153.],lvl2
+DX-9.10.4,Other esophageal bleeding,lvl3
+DX-9.10.3,Gastroesophageal laceration syndrome,lvl3
+DX-9.10.1,Hemorrhage from gastrointestinal ulcer,lvl3
+DX-9.10.5,Hemorrhage of rectum and anus,lvl3
+DX-9.10.6,Hematemesis,lvl3
+DX-9.10.2,Melena,lvl3
+DX-9.10.7,Hemorrhage of gastrointestinal tract,lvl3
+DX154,Gastroent,main
+DX-9.11,Noninfectious gastroenteritis [154.],lvl2
+DX155,Other GI dx,main
+DX-9.12,Other gastrointestinal disorders [155.],lvl2
+DX-9.12.3,Other and unspecified gastrointestinal disorders,lvl3
+DX-9.12.1,Constipation,lvl3
+DX-9.12.2,Dysphagia,lvl3
+DX156,Nephritis,main
+DX-10,Diseases of the genitourinary system,lvl1
+DX-10.1,Diseases of the urinary system,lvl2
+DX-10.1.1,Nephritis; nephrosis; renal sclerosis [156.],lvl3
+DX157,Ac renl fail,main
+DX-10.1.2,Acute and unspecified renal failure [157.],lvl3
+DX-10.1.2.1,Acute renal failure,lvl4
+DX-10.1.2.2,Unspecified renal failure,lvl4
+DX158,Chr kidney disease,main
+DX-10.1.3,Chronic kidney disease [158.],lvl3
+DX159,UTI,main
+DX-10.1.4,Urinary tract infections [159.],lvl3
+DX-10.1.4.2,Cystitis and urethritis,lvl4
+DX-10.1.4.1,Infections of kidney,lvl4
+DX-10.1.4.3,Urinary tract infection; site not specified,lvl4
+DX160,Urin stone,main
+DX-10.1.5,Calculus of urinary tract [160.],lvl3
+DX-10.1.5.1,Calculus of kidney,lvl4
+DX-10.1.5.2,Calculus of ureter,lvl4
+DX-10.1.5.3,Other and unspecified urinary calculus,lvl4
+DX161,Ot dx kidney,main
+DX-10.1.6,Other diseases of kidney and ureters [161.],lvl3
+DX-10.1.6.2,Other and unspecified diseases of kidney and ureters,lvl4
+DX-10.1.6.1,Hydronephrosis,lvl4
+DX162,Ot dx bladdr,main
+DX-10.1.7,Other diseases of bladder and urethra [162.],lvl3
+DX-10.1.7.1,Bladder neck obstruction,lvl4
+DX-10.1.7.2,Other and unspecified diseases of bladder and urethra,lvl4
+DX163,Other GU dx,main
+DX-10.1.8,Genitourinary symptoms and ill-defined conditions [163.],lvl3
+DX-10.1.8.3,Other and unspecified genitourinary symptoms,lvl4
+DX-10.1.8.1,Hematuria,lvl4
+DX-10.1.8.2,Retention of urine,lvl4
+DX164,BPH,main
+DX-10.2,Diseases of male genital organs,lvl2
+DX-10.2.1,Hyperplasia of prostate [164.],lvl3
+DX165,Inf male gen,main
+DX-10.2.2,Inflammatory conditions of male genital organs [165.],lvl3
+DX166,Oth male gen,main
+DX-10.2.3,Other male genital disorders [166.],lvl3
+DX167,Breast dx,main
+DX-10.3,Diseases of female genital organs,lvl2
+DX-10.3.1,Nonmalignant breast conditions [167.],lvl3
+DX168,PID,main
+DX-10.3.2,Inflammatory diseases of female pelvic organs [168.],lvl3
+DX-10.3.2.4,Other inflammatory diseases of female pelvic organs,lvl4
+DX-10.3.2.1,Pelvic peritoneal adhesions,lvl4
+DX-10.3.2.3,Pelvic inflammatory disease (PID),lvl4
+DX-10.3.2.2,Cervicitis and endocervicitis,lvl4
+DX169,Endometrios,main
+DX-10.3.3,Endometriosis [169.],lvl3
+DX170,Prolapse,main
+DX-10.3.4,Prolapse of female genital organs [170.],lvl3
+DX171,Menstrual dx,main
+DX-10.3.5,Menstrual disorders [171.],lvl3
+DX172,Ovarian cyst,main
+DX-10.3.6,Ovarian cyst [172.],lvl3
+DX173,Menopausl dx,main
+DX-10.3.7,Menopausal disorders [173.],lvl3
+DX174,Fem infertil,main
+DX-10.3.8,Female infertility [174.],lvl3
+DX175,Ot femal gen,main
+DX-10.3.9,Other female genital disorders [175.],lvl3
+DX-10.3.9.2,Other and unspecified female genital disorders,lvl4
+DX-10.3.9.1,Female genital pain and other symptoms,lvl4
+DX176,Contraceptiv,main
+DX-11,Complications of pregnancy; childbirth; and the puerperium,lvl1
+DX-11.1,Contraceptive and procreative management [176.],lvl2
+DX-11.1.2,Other contraceptive and procreation management,lvl3
+DX-11.1.1,Sterilization,lvl3
+DX177,Spont abortn,main
+DX-11.2,Abortion-related disorders,lvl2
+DX-11.2.1,Spontaneous abortion [177.],lvl3
+DX178,Induc abortn,main
+DX-11.2.2,Induced abortion [178.],lvl3
+DX179,Abort compl,main
+DX-11.2.3,Postabortion complications [179.],lvl3
+DX180,Ectopic preg,main
+DX-11.3,Complications mainly related to pregnancy,lvl2
+DX-11.3.1,Ectopic pregnancy [180.],lvl3
+DX181,Ot preg comp,main
+DX-11.3.7,Other complications of pregnancy [181.],lvl3
+DX-11.3.7.7,Other and unspecified complications of pregnancy,lvl4
+DX-11.3.7.4,Missed abortion,lvl4
+DX-11.3.7.5,Hyperemesis gravidarum,lvl4
+DX-11.3.7.1,Infections of genitourinary tract during pregnancy,lvl4
+DX-11.3.7.6,Infectious and parasitic complications in mother affecting pregnancy,lvl4
+DX-11.3.7.2,Anemia during pregnancy,lvl4
+DX182,Hemorr preg,main
+DX-11.3.2,Hemorrhage during pregnancy; abruptio placenta; placenta previa [182.],lvl3
+DX-11.3.2.3,Other hemorrhage during pregnancy; childbirth and the puerperium,lvl4
+DX-11.3.2.1,Placenta previa,lvl4
+DX-11.3.2.2,Abruptio placenta,lvl4
+DX183,HTN in preg,main
+DX-11.3.3,Hypertension complicating pregnancy; childbirth and the puerperium [183.],lvl3
+DX-11.3.3.2,Other hypertension in pregnancy,lvl4
+DX-11.3.3.1,Preeclampsia and eclampsia,lvl4
+DX184,Early labor,main
+DX-11.3.4,Early or threatened labor [184.],lvl3
+DX-11.3.4.1,Threatened premature labor,lvl4
+DX-11.3.4.3,Other early or threatened labor,lvl4
+DX-11.3.4.2,Early onset of delivery,lvl4
+DX185,Long pregncy,main
+DX-11.3.5,Prolonged pregnancy [185.],lvl3
+DX186,DM in preg,main
+DX-11.3.6,Diabetes or abnormal glucose tolerance complicating pregnancy; childbirth; or the puerperium [186.],lvl3
+DX187,Malposition,main
+DX-11.4,Indications for care in pregnancy; labor; and delivery,lvl2
+DX-11.4.1,Malposition; malpresentation [187.],lvl3
+DX-11.4.1.2,Other malposition; malpresentation,lvl4
+DX-11.4.1.1,Breech presentation,lvl4
+DX188,Pelvic obstr,main
+DX-11.4.2,Fetopelvic disproportion; obstruction [188.],lvl3
+DX-11.4.2.2,Other disproportion or obstruction,lvl4
+DX-11.4.2.1,Fetopelvic disproportion,lvl4
+DX189,Prev c-sectn,main
+DX-11.4.3,Previous cesarean section [189.],lvl3
+DX190,Fetal distrs,main
+DX-11.4.4,Fetal distress and abnormal forces of labor [190.],lvl3
+DX-11.4.4.1,Fetal distress,lvl4
+DX-11.4.4.2,Uterine inertia,lvl4
+DX-11.4.4.3,Precipitate labor,lvl4
+DX-11.4.4.4,Other abnormal forces of labor,lvl4
+DX191,Amnios dx,main
+DX-11.4.5,Polyhydramnios and other problems of amniotic cavity [191.],lvl3
+DX-11.4.5.3,Other problems of amniotic cavity,lvl4
+DX-11.4.5.1,Premature rupture of membranes,lvl4
+DX-11.4.5.2,Infection of amniotic cavity,lvl4
+DX192,Umbil cord,main
+DX-11.5,Complications during labor,lvl2
+DX-11.5.1,Umbilical cord complication [192.],lvl3
+DX-11.5.1.3,Other umbilical cord complications,lvl4
+DX-11.5.1.1,Cord around neck with compression,lvl4
+DX-11.5.1.2,Other and unspecified cord entanglement with or without compression,lvl4
+DX193,OB-related perin trauma,main
+DX-11.5.2,Trauma to perineum and vulva [193.],lvl3
+DX-11.5.2.1,First degree perineal laceration,lvl4
+DX-11.5.2.2,Second degree perineal laceration,lvl4
+DX-11.5.2.3,Third degree perineal laceration,lvl4
+DX-11.5.2.4,Fourth degree perineal laceration,lvl4
+DX-11.5.2.5,Other perineal laceration and trauma,lvl4
+DX194,Forceps del,main
+DX-11.5.3,Forceps delivery [194.],lvl3
+DX195,Ot compl bir,main
+DX-11.6,Other complications of birth; puerperium affecting management of mother [195.],lvl2
+DX-11.6.3,Cervical incompetence,lvl3
+DX-11.6.8,Other and unspecified complications of birth; puerperium affecting management of moth,lvl3
+DX-11.6.4,Rhesus isoimmunization,lvl3
+DX-11.6.5,Intrauterine death,lvl3
+DX-11.6.6,Failed induction,lvl3
+DX-11.6.7,Other obstetrical trauma,lvl3
+DX-11.6.1,Postpartum hemorrhage,lvl3
+DX-11.6.2,Complications of the puerperium,lvl3
+DX196,Other pregnancy and delivery including normal,main
+DX-11.7,Normal pregnancy and/or delivery [196.],lvl2
+DX-11.7.1,Normal delivery,lvl3
+DX-11.7.2,Multiple gestation,lvl3
+DX-11.7.3,Outcome of delivery (V codes),lvl3
+DX197,Skin infectn,main
+DX-12,Diseases of the skin and subcutaneous tissue,lvl1
+DX-12.1,Skin and subcutaneous tissue infections [197.],lvl2
+DX-12.1.2,Other skin and subcutaneous infections,lvl3
+DX-12.1.1,Cellulitis and abscess,lvl3
+DX-12.1.1.1,Cellulitis and abscess of fingers and toes,lvl4
+DX-12.1.1.2,Cellulitis and abscess of face,lvl4
+DX-12.1.1.7,Other cellulitis and abscess,lvl4
+DX-12.1.1.3,Cellulitis and abscess of arm,lvl4
+DX-12.1.1.4,Cellulitis and abscess of hand,lvl4
+DX-12.1.1.5,Cellulitis and abscess of leg,lvl4
+DX-12.1.1.6,Cellulitis and abscess of foot,lvl4
+DX198,Ot infl skin,main
+DX-12.2,Other inflammatory condition of skin [198.],lvl2
+DX199,Ulcer skin,main
+DX-12.3,Chronic ulcer of skin [199.],lvl2
+DX-12.3.1,Decubitus ulcer,lvl3
+DX-12.3.2,Chronic ulcer of leg or foot,lvl3
+DX-12.3.3,Other chronic skin ulcer,lvl3
+DX200,Oth skin dx,main
+DX-12.4,Other skin disorders [200.],lvl2
+DX201,Infect arth,main
+DX-13,Diseases of the musculoskeletal system and connective tissue,lvl1
+DX-13.1,Infective arthritis and osteomyelitis (except that caused by TB or STD) [201.],lvl2
+DX202,Rheum arth,main
+DX-13.2,Non-traumatic joint disorders,lvl2
+DX-13.2.1,Rheumatoid arthritis and related disease [202.],lvl3
+DX203,Osteoarthros,main
+DX-13.2.2,Osteoarthritis [203.],lvl3
+DX-13.2.2.2,Osteoarthritis; generalized and unspecified,lvl4
+DX-13.2.2.1,Osteoarthritis; localized,lvl4
+DX204,Ot joint dx,main
+DX-13.2.3,Other non-traumatic joint disorders [204.],lvl3
+DX205,Back problem,main
+DX-13.3,Spondylosis; intervertebral disc disorders; other back problems [205.],lvl2
+DX-13.3.3,Other back problems,lvl3
+DX-13.3.3.7,Other back pain and disorders,lvl4
+DX-13.3.1,Spondylosis and allied disorders,lvl3
+DX-13.3.2,Intervertebral disc disorders,lvl3
+DX-13.3.3.1,Cervical radiculitis,lvl4
+DX-13.3.3.2,Spinal stenosis; lumbar region,lvl4
+DX-13.3.3.3,Lumbago,lvl4
+DX-13.3.3.4,Sciatica,lvl4
+DX-13.3.3.5,Thoracic or lumbosacral neuritis or radiculitis; unspecified,lvl4
+DX-13.3.3.6,Backache; unspecified,lvl4
+DX206,Osteoporosis,main
+DX-13.4,Osteoporosis [206.],lvl2
+DX207,Patholog fx,main
+DX-13.5,Pathological fracture [207.],lvl2
+DX208,Acq foot def,main
+DX-13.6,Acquired deformities,lvl2
+DX-13.6.1,Acquired foot deformities [208.],lvl3
+DX209,Ot acq defor,main
+DX-13.6.2,Other acquired deformities [209.],lvl3
+DX210,SLE,main
+DX-13.7,Systemic lupus erythematosus and connective tissue disorders [210.],lvl2
+DX211,Ot conn tiss,main
+DX-13.8,Other connective tissue disease [211.],lvl2
+DX212,Ot bone dx,main
+DX-13.9,Other bone disease and musculoskeletal deformities [212.],lvl2
+DX213,Cardiac anom,main
+DX-14,Congenital anomalies,lvl1
+DX-14.1,Cardiac and circulatory congenital anomalies [213.],lvl2
+DX-14.1.18,Other anomalies of bulbus cordis and cardiac septal closure,lvl3
+DX-14.1.1,Transposition of great vessels,lvl3
+DX-14.1.12,Double outlet right ventricle,lvl3
+DX-14.1.2,Tetralogy of Fallot,lvl3
+DX-14.1.13,Common ventricle,lvl3
+DX-14.1.3,Ventricular septal defect,lvl3
+DX-14.1.4,Atrial septal defect,lvl3
+DX-14.1.5,Endocardial cushion defects,lvl3
+DX-14.1.6,Pulmonary valve atresia and stenosis,lvl3
+DX-14.1.19,Other heart valve congenital anomalies,lvl3
+DX-14.1.7,Aortic valve stenosis,lvl3
+DX-14.1.14,Congenital insufficiency of aortic valve,lvl3
+DX-14.1.15,Hypoplastic left heart syndrome,lvl3
+DX-14.1.20,Other congenital anomalies of the heart,lvl3
+DX-14.1.8,Patent ductus arteriosus,lvl3
+DX-14.1.9,Coarctation of aorta,lvl3
+DX-14.1.21,Other congenital anomalies of aorta,lvl3
+DX-14.1.10,Pulmonary artery anomalies,lvl3
+DX-14.1.22,Other circulatory congenital anomalies,lvl3
+DX-14.1.16,Gastrointestinal vessel congenital anomaly,lvl3
+DX-14.1.11,Cerebrovascular anomalies,lvl3
+DX-14.1.17,Persistent fetal circulation,lvl3
+DX214,GI cong anom,main
+DX-14.2,Digestive congenital anomalies [214.],lvl2
+DX-14.2.8,Other upper gastrointestinal congenital anomalies,lvl3
+DX-14.2.1,Esophageal atresia/tracheoesophageal fistula,lvl3
+DX-14.2.2,Pyloric stenosis,lvl3
+DX-14.2.5,'Meckel's diverticulum',lvl3
+DX-14.2.6,Atresia and stenosis of small intestine,lvl3
+DX-14.2.3,Rectal and large intestine atresia/stenosis,lvl3
+DX-14.2.4,Hirshsprungs disease,lvl3
+DX-14.2.7,Anomalies of intestinal fixation,lvl3
+DX-14.2.9,Other lower gastrointestinal congenital anomalies,lvl3
+DX215,gu cong anom,main
+DX-14.3,Genitourinary congenital anomalies [215.],lvl2
+DX-14.3.7,Other congenital anomalies of genitalia,lvl3
+DX-14.3.6,Embyronic cyst of fallopian tubes and broad ligaments,lvl3
+DX-14.3.1,Undescended testicle,lvl3
+DX-14.3.2,Hypospadias and epispadias,lvl3
+DX-14.3.8,Other congenital anomalies of urinary system,lvl3
+DX-14.3.5,Other cystic kidney disease,lvl3
+DX-14.3.4,Polycystic kidney,lvl3
+DX-14.3.3,Obstructive genitourinary defect,lvl3
+DX216,Nerv cong an,main
+DX-14.4,Nervous system congenital anomalies [216.],lvl2
+DX-14.4.5,Other nervous system congenital anomalies,lvl3
+DX-14.4.1,Spina bifida,lvl3
+DX-14.4.4,Microcephalus,lvl3
+DX-14.4.2,Congenital hydrocephalus,lvl3
+DX-14.4.3,Other spinal cord congenital anomalies,lvl3
+DX217,Ot cong anom,main
+DX-14.5,Other congenital anomalies [217.],lvl2
+DX-14.5.3,Congenital anomalies of the eye,lvl3
+DX-14.5.6,Other face and neck congenital anomalies,lvl3
+DX-14.5.4,Microtia (incomplete development of external ear),lvl3
+DX-14.5.5,Branchial cleft cyst or fistula,lvl3
+DX-14.5.8,Other respiratory congenital anomalies,lvl3
+DX-14.5.7,Congenital anomalies of larynx trachea and bronchus,lvl3
+DX-14.5.1,Cleft palate without cleft lip,lvl3
+DX-14.5.2,Cleft lip with or without cleft palate,lvl3
+DX-14.5.26,All other congenital anomalies,lvl3
+DX-14.5.10,Congenital hip dislocation,lvl3
+DX-14.5.14,Other congenital anomalies of limbs,lvl3
+DX-14.5.9,Foot deformities,lvl3
+DX-14.5.24,Pectus excavatum,lvl3
+DX-14.5.11,Polydactyly (extra digits) and syndactyly (webbing between digits),lvl3
+DX-14.5.12,Congenital absence of lower limb,lvl3
+DX-14.5.13,Congenital hip deformity,lvl3
+DX-14.5.15,Congenital anomalies of skull and facial bones,lvl3
+DX-14.5.18,Other spinal congenital anomalies,lvl3
+DX-14.5.16,Lumbosacral spondylolysis,lvl3
+DX-14.5.17,Spondylolisthesis,lvl3
+DX-14.5.19,Osteogenesis imperfecta,lvl3
+DX-14.5.20,Congenital anomalies of the diaphragm,lvl3
+DX-14.5.21,Congenital anomalies of abdominal wall,lvl3
+DX-14.5.23,Other congenital anomalies of integument,lvl3
+DX-14.5.22,Congenital pigmentary anomalies of skin,lvl3
+DX-14.5.25,'Down's Syndrome',lvl3
+DX218,Liveborn,main
+DX-15,Certain conditions originating in the perinatal period,lvl1
+DX-15.1,Liveborn [218.],lvl2
+DX219,Low birth wt,main
+DX-15.2,Short gestation; low birth weight; and fetal growth retardation [219.],lvl2
+DX220,Birth asphyx,main
+DX-15.3,Intrauterine hypoxia and birth asphyxia [220.],lvl2
+DX221,Resp distres,main
+DX-15.4,Respiratory distress syndrome [221.],lvl2
+DX222,Perint jaund,main
+DX-15.5,Hemolytic jaundice and perinatal jaundice [222.],lvl2
+DX223,Birth trauma,main
+DX-15.6,Birth trauma [223.],lvl2
+DX224,Ot perint dx,main
+DX-15.7,Other perinatal conditions [224.],lvl2
+DX-15.7.2,Infections specific to the perinatal period,lvl3
+DX-15.7.4,Other and unspecified perinatal conditions,lvl3
+DX-15.7.1,Respiratory conditions of fetus and newborn; other than respiratory distress,lvl3
+DX-15.7.3,Endocrine and metabolic disturbances of fetus and newborn,lvl3
+DX225,Joint injury,main
+DX-16,Injury and poisoning,lvl1
+DX-16.1,Joint disorders and dislocations; trauma-related [225.],lvl2
+DX226,Fx hip,main
+DX-16.2,Fractures,lvl2
+DX-16.2.1,Fracture of neck of femur (hip) [226.],lvl3
+DX227,Spin cor inj,main
+DX-16.3,Spinal cord injury [227.],lvl2
+DX228,Fx skull fac,main
+DX-16.2.2,Skull and face fractures [228.],lvl3
+DX229,Fx arm,main
+DX-16.2.3,Fracture of upper limb [229.],lvl3
+DX-16.2.3.3,Other fracture of upper limb,lvl4
+DX-16.2.3.1,Fracture of humerus,lvl4
+DX-16.2.3.2,Fracture of radius and ulna,lvl4
+DX230,Fx leg,main
+DX-16.2.4,Fracture of lower limb [230.],lvl3
+DX-16.2.4.3,Other fracture of lower limb,lvl4
+DX-16.2.4.1,Fracture of tibia and fibula,lvl4
+DX-16.2.4.2,Fracture of ankle,lvl4
+DX231,Oth fracture,main
+DX-16.2.5,Other fractures [231.],lvl3
+DX-16.2.5.1,Fracture of vertebral column without mention of spinal cord injury,lvl4
+DX-16.2.5.2,Fracture of ribs; closed,lvl4
+DX-16.2.5.4,Other and unspecified fracture,lvl4
+DX-16.2.5.3,Fracture of pelvis,lvl4
+DX232,Sprain,main
+DX-16.7,Sprains and strains [232.],lvl2
+DX233,Intracrn inj,main
+DX-16.4,Intracranial injury [233.],lvl2
+DX-16.4.2,Other intracranial injury,lvl3
+DX-16.4.1,Concussion,lvl3
+DX234,Crush injury,main
+DX-16.5,Crushing injury or internal injury [234.],lvl2
+DX235,Opn wnd head,main
+DX-16.6,Open wounds,lvl2
+DX-16.6.1,Open wounds of head; neck; and trunk [235.],lvl3
+DX236,Opn wnd extr,main
+DX-16.6.2,Open wounds of extremities [236.],lvl3
+DX237,Complic devi,main
+DX-16.10,Complications,lvl2
+DX-16.10.1,Complication of device; implant or graft [237.],lvl3
+DX-16.10.1.4,Complications of transplants and reattached limbs,lvl4
+DX-16.10.1.1,Malfunction of device; implant; and graft,lvl4
+DX-16.10.1.3,Other complications of internal prosthetic device; implant; and graft,lvl4
+DX-16.10.1.2,Infection and inflammation--internal prosthetic device; implant; and graft,lvl4
+DX238,Complic proc,main
+DX-16.10.2,Complications of surgical procedures or medical care [238.],lvl3
+DX-16.10.2.7,Other complications of surgical and medical procedures,lvl4
+DX-16.10.2.1,Cardiac complications,lvl4
+DX-16.10.2.2,Respiratory complications,lvl4
+DX-16.10.2.6,Postoperative infection,lvl4
+DX-16.10.2.3,Gastrointestinal complications,lvl4
+DX-16.10.2.4,Urinary complications,lvl4
+DX-16.10.2.5,Hemorrhage or hematoma complicating a procedure,lvl4
+DX239,Superfic inj,main
+DX-16.8,Superficial injury; contusion [239.],lvl2
+DX240,Burns,main
+DX-16.9,Burns [240.],lvl2
+DX241,Poison psych,main
+DX-16.11,Poisoning,lvl2
+DX-16.11.1,Poisoning by psychotropic agents [241.],lvl3
+DX242,Poisn ot med,main
+DX-16.11.2,Poisoning by other medications and drugs [242.],lvl3
+DX243,Poisn nonmed,main
+DX-16.11.3,Poisoning by nonmedicinal substances [243.],lvl3
+DX244,Other injury,main
+DX-16.12,Other injuries and conditions due to external causes [244.],lvl2
+DX245,Syncope,main
+DX-17,Symptoms; signs; and ill-defined conditions and factors influencing health status,lvl1
+DX-17.1,Symptoms; signs; and ill-defined conditions,lvl2
+DX-17.1.1,Syncope [245.],lvl3
+DX246,FUO,main
+DX-17.1.2,Fever of unknown origin [246.],lvl3
+DX247,Lymph enlarg,main
+DX-17.1.3,Lymphadenitis [247.],lvl3
+DX248,Gangrene,main
+DX-17.1.4,Gangrene [248.],lvl3
+DX249,Shock,main
+DX-17.1.5,Shock [249.],lvl3
+DX250,Nausea/vomit,main
+DX-17.1.6,Nausea and vomiting [250.],lvl3
+DX251,Abdomnl pain,main
+DX-17.1.7,Abdominal pain [251.],lvl3
+DX252,Fatigue,main
+DX-17.1.8,Malaise and fatigue [252.],lvl3
+DX253,Allergy,main
+DX-17.1.9,Allergic reactions [253.],lvl3
+DX254,Rehab,main
+DX-17.2,Factors influencing health care,lvl2
+DX-17.2.1,Rehabilitation care; fitting of prostheses; and adjustment of devices [254.],lvl3
+DX255,Social admin,main
+DX-17.2.2,Administrative/social admission [255.],lvl3
+DX256,Exam/eval,main
+DX-17.2.3,Medical examination/evaluation [256.],lvl3
+DX257,Ot aftercare,main
+DX-17.2.4,Other aftercare [257.],lvl3
+DX258,Other screen,main
+DX-17.2.5,Other screening for suspected conditions (not mental disorders or infectious disease) [258.],lvl3
+DX259,Unclassified,main
+DX-18,Residual codes; unclassified; all E codes [259. and 260.],lvl1
+DX650,Adjustment disorders,main
+DX-5,Mental illness,lvl1
+DX-5.1,Adjustment disorders [650],lvl2
+DX651,Anxiety disorders,main
+DX-5.2,Anxiety disorders [651],lvl2
+DX652,Attention-deficit/conduct/disruptive beha,main
+DX-5.3,Attention deficit conduct and disruptive behavior disorders [652],lvl2
+DX-5.3.1,Conduct disorder [6521],lvl3
+DX-5.3.2,Oppositional defiant disorder [6522],lvl3
+DX-5.3.3,Attention deficit disorder and Attention deficit hyperactivity disorder [6523],lvl3
+DX653,Delirium/dementia/amnestic/other cognitiv,main
+DX-5.4,Delirium dementia and amnestic and other cognitive disorders [653],lvl2
+DX654,Developmental disorders,main
+DX-5.5,Developmental disorders [654],lvl2
+DX-5.5.1,Communication disorders [6541],lvl3
+DX-5.5.4,Learning disorders [6544],lvl3
+DX-5.5.2,Developmental disabilities [6542],lvl3
+DX-5.5.5,Motor skill disorders [6545],lvl3
+DX-5.5.3,Intellectual disabilities [6543],lvl3
+DX655,Disorders usually diagnosed in infancy/ch,main
+DX-5.6,Disorders usually diagnosed in infancy childhood or adolescence [655],lvl2
+DX-5.6.3,Pervasive developmental disorders [6553],lvl3
+DX-5.6.4,Tic disorders [6554],lvl3
+DX-5.6.2,Other disorders of infancy  childhood  or adolescence [6552],lvl3
+DX-5.6.1,Elimination disorders [6551],lvl3
+DX656,Impulse control disorders NEC,main
+DX-5.7,Impulse control disorders not elsewhere classified [656],lvl2
+DX657,Mood disorders,main
+DX-5.8,Mood disorders [657],lvl2
+DX-5.8.2,Depressive disorders [6572],lvl3
+DX-5.8.1,Bipolar disorders [6571],lvl3
+DX658,Personality disorders,main
+DX-5.9,Personality disorders [658],lvl2
+DX659,Schizophrenia and other psychotic disorde,main
+DX-5.10,Schizophrenia and other psychotic disorders [659],lvl2
+DX660,Alcohol-related disorders,main
+DX-5.11,Alcohol-related disorders [660],lvl2
+DX661,Substance-related disorders,main
+DX-5.12,Substance-related disorders [661],lvl2
+DX662,Suicide and intentional self-inflicted in,main
+DX-5.13,Suicide and intentional self-inflicted injury [662],lvl2
+DX663,Screening and history of mental health an,main
+DX-5.14,Screening and history of mental health and substance abuse codes [663],lvl2
+DX-5.14.2,Codes related to substance-related disorders [6632],lvl3
+DX-5.14.1,Codes related to mental health disorders [6631],lvl3
+DX670,Miscellaneous mental health disorders,main
+DX-5.15,Miscellaneous mental disorders [670],lvl2
+DX-5.15.8,Mental disorders due to general medical conditions not elsewhere classified [6708],lvl3
+DX-5.15.7,Somatoform disorders [6707],lvl3
+DX-5.15.1,Dissociative disorders [6701],lvl3
+DX-5.15.3,Factitious disorders [6703],lvl3
+DX-5.15.5,Sexual and gender identity disorders [6705],lvl3
+DX-5.15.4,Psychogenic disorders [6704],lvl3
+DX-5.15.2,Eating disorders [6702],lvl3
+DX-5.15.6,Sleep disorders [6706],lvl3
+DX-5.15.9,Other miscellaneous mental conditions [6709],lvl3
+DX2601,E Codes: Cut/pierce,main
+DX2602,E Codes: Drowning/submersion,main
+DX2603,E Codes: Fall,main
+DX2604,E Codes: Fire/burn,main
+DX2605,E Codes: Firearm,main
+DX2606,E Codes: Machinery,main
+DX2607,e codes: motor vehicle traffic (mvt),main
+DX2608,E Codes: Pedal cyclist- not MVT,main
+DX2609,E Codes: Pedestrian- not MVT,main
+DX2610,e codes: transport- not mvt,main
+DX2611,E Codes: Natural/environment,main
+DX2612,E Codes: Overexertion,main
+DX2613,E Codes: Poisoning,main
+DX2614,E Codes: Struck by- against,main
+DX2615,E Codes: Suffocation,main
+DX2616,E Codes: Adverse effects of medical care,main
+DX2617,E Codes: Adverse effects of medical drugs,main
+DX2618,E Codes: Other specified and classifiable,main
+DX2619,e codes: other specified- nec,main
+DX2620,E Codes: Unspecified,main
+DX2621,E Codes: Place of occurrence,main
