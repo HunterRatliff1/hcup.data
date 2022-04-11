@@ -1,0 +1,45 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# hcup.data
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This package provides datasets used by the [Healthcare Cost and Utilization Project (HCUP)](https://www.hcup-us.ahrq.gov/tools_software.jsp). 
+
+## Installation
+
+You can install the development version of hcup.data from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("HunterRatliff1/hcup.data")
+```
+
+## Data included
+
+Below are the datasets in this package. Use `?<dataset>` for details
+
+```{r data-items, echo=F}
+library(hcup.data)
+x <- data(package="hcup.data")
+df <- data.frame(
+  dataset     = x[["results"]][,3],
+  description = x[["results"]][,4]
+)
+knitr::kable(df)
+```
+
