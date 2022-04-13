@@ -1,5 +1,4 @@
 CCS,CCS_label,CCS_Level
-DX0,No DX,main
 DX1,Tuberculosis,main
 DX-1,Infectious and parasitic diseases,lvl1
 DX-1.1,Bacterial infection,lvl2

@@ -69,7 +69,8 @@ i9_multi_dx <- readr::read_csv(file = glue::glue("{d}/ccs_multi_dx_tool_2015.csv
          I9_DX = str_trim(I9_DX))
 
 # Join these together to mimick the format of CCS for ICD-10
-df_i9_dx <- left_join(i9_single_dx, i9_multi_dx, by="I9_DX")
+df_i9_dx <- left_join(i9_single_dx, i9_multi_dx, by="I9_DX") %>%
+  filter(I9_DX!="")
 rm(i9_single_dx, i9_multi_dx)
 
 #### ~ Seperate icd9 dx ####
@@ -131,7 +132,8 @@ i9_multi_pr <- readr::read_csv(file = glue::glue("{d}/ccs_multi_pr_tool_2015.csv
 
 
 # Join these together to mimick the format of CCS for ICD-10
-df_i9_pr <- left_join(i9_single_pr, i9_multi_pr, by="I9_PR")
+df_i9_pr <- left_join(i9_single_pr, i9_multi_pr, by="I9_PR") %>%
+  filter(I9_PR!="")
 rm(i9_single_pr, i9_multi_pr)
 
 #### ~ Seperate icd9 pr ####
@@ -203,6 +205,3 @@ unlink(d) # remove temp directory
 rm(metadata, d, data_url_single, data_url_multi)
 
 
-
-#### CLEAN UP ENVIROMENT ####
-rm(d, data_url_single, data_url_multi)
