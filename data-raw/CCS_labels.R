@@ -28,6 +28,6 @@ CCS_pr <- left_join(CCS_pr9_label, CCS_pr10_label,
   select(CCS, CCS_label, CCS_Level)
 
 
-CCS_labels <- bind_rows(CCS_dx, CCS_pr)
+CCS_labels <- bind_rows(CCS_dx, CCS_pr) %>% unique()
 
 usethis::use_data(CCS_labels, overwrite = TRUE)
