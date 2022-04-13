@@ -663,14 +663,13 @@
 
 
 
-#### CCS_xxx_label ####
+#### CCS_labels ####
 #' Look up the names of CCS categories from CCS codes.
 #'
 #' A dataset extracted from the  Healthcare Cost and Utilization
 #' Project's (HCUP) Clinical Classifications Software (CCS)
-#' for ICD-9-CM Procedure codes
 #'
-#' @name CCS_xxx_label
+#' @name CCS_labels
 #' @format
 #' \describe{
 #'   \item{CCS}{Vector of CCS categories}
@@ -681,22 +680,22 @@
 #' }
 #' @keywords datasets
 #'
-NULL
+"CCS_labels"
 
 
-#' @rdname CCS_xxx_label
+#' @rdname CCS_labels
 #' @format NULL
 "CCS_dx9_label"
 
-#' @rdname CCS_xxx_label
+#' @rdname CCS_labels
 #' @format NULL
 "CCS_dx10_label"
 
-#' @rdname CCS_xxx_label
+#' @rdname CCS_labels
 #' @format NULL
 "CCS_pr9_label"
 
-#' @rdname CCS_xxx_label
+#' @rdname CCS_labels
 #' @format NULL
 "CCS_pr10_label"
 
