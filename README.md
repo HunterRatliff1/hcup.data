@@ -9,7 +9,8 @@
 
 This package provides datasets used by the [Healthcare Cost and
 Utilization Project
-(HCUP)](https://www.hcup-us.ahrq.gov/tools_software.jsp).
+(HCUP)](https://www.hcup-us.ahrq.gov/tools_software.jsp). It is used to
+support the [hcup package](https://github.com/HunterRatliff1/hcup)
 
 ## Installation
 
@@ -24,7 +25,7 @@ devtools::install_github("HunterRatliff1/hcup.data")
 ## Data included
 
 Below are the datasets in this package. Use `?<dataset>` for
-details.
+details
 
 | dataset              | description                                                      |
 | :------------------- | :--------------------------------------------------------------- |
@@ -34,6 +35,7 @@ details.
 | CCSR\_DX\_mapping    | Mapping ICD-10-CM (diagnosis) codes to CCSR categories.          |
 | CCSR\_PR\_categories | Categories for CCSR procedure groups (ICD-10-PCS)                |
 | CCSR\_PR\_mapping    | Mapping ICD-10-PCS (procedure) codes to CCSR categories.         |
+| CCSR\_labels         | CCSR descriptions (both DX & PR)                                 |
 | CCS\_dx10\_label     | Look up the names of CCS categories from CCS codes.              |
 | CCS\_dx10\_map       | Lookup table for ICD-10-CM (diagnosis) codes to CCS categories.  |
 | CCS\_dx9\_label      | Look up the names of CCS categories from CCS codes.              |

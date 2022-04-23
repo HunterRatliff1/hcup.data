@@ -18,7 +18,8 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-This package provides datasets used by the [Healthcare Cost and Utilization Project (HCUP)](https://www.hcup-us.ahrq.gov/tools_software.jsp). 
+This package provides datasets used by the [Healthcare Cost and Utilization Project (HCUP)](https://www.hcup-us.ahrq.gov/tools_software.jsp). It is used to support the
+[hcup package](https://github.com/HunterRatliff1/hcup)
 
 ## Installation
 
@@ -31,7 +32,7 @@ devtools::install_github("HunterRatliff1/hcup.data")
 
 ## Data included
 
-Below are the datasets in this package. Use `?<dataset>` for details.
+Below are the datasets in this package. Use `?<dataset>` for details
 
 ```{r data-items, echo=F}
 library(hcup.data)
