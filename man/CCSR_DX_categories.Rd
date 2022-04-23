@@ -27,4 +27,8 @@ Categories for CCSR diagnosis groups (ICD-10-CM)
 The version of CCSR used in this package is \strong{v2022.1}; The source documentation
 \href{https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/dxccsr.jsp}{can be found here}
 }
+\seealso{
+See \code{\link{CCSR_labels}} for the labels of diagnosis codes and
+procedure codes in one dataset
+}
 \keyword{datasets}

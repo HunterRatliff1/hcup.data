@@ -35,7 +35,7 @@ for ICD-9-CM Diagnoses.
 \details{
 \subsection{Single vs Multi-level CCS categories}{
 
-Unlike the CCS (CCS Refined), the original CCS classification
+Unlike the CCSR (CCS Refined), the original CCS classification
 has "single-level" and "multi-level" categories.
 
 This system classifies all diagnoses and procedures into unique groups.

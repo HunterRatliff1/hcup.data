@@ -31,7 +31,7 @@ devtools::install_github("HunterRatliff1/hcup.data")
 
 ## Data included
 
-Below are the datasets in this package. Use `?<dataset>` for details
+Below are the datasets in this package. Use `?<dataset>` for details.
 
 ```{r data-items, echo=F}
 library(hcup.data)

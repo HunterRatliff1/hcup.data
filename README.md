@@ -24,7 +24,7 @@ devtools::install_github("HunterRatliff1/hcup.data")
 ## Data included
 
 Below are the datasets in this package. Use `?<dataset>` for
-details
+details.
 
 | dataset              | description                                                      |
 | :------------------- | :--------------------------------------------------------------- |
@@ -38,6 +38,7 @@ details
 | CCS\_dx10\_map       | Lookup table for ICD-10-CM (diagnosis) codes to CCS categories.  |
 | CCS\_dx9\_label      | Look up the names of CCS categories from CCS codes.              |
 | CCS\_dx9\_map        | Lookup table for ICD-9-CM (diagnosis) codes to CCS categories.   |
+| CCS\_labels          | Look up the names of CCS categories from CCS codes.              |
 | CCS\_pr10\_label     | Look up the names of CCS categories from CCS codes.              |
 | CCS\_pr10\_map       | Lookup table for ICD-10-PCS (procedure) codes to CCS categories. |
 | CCS\_pr9\_label      | Look up the names of CCS categories from CCS codes.              |

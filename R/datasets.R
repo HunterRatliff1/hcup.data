@@ -53,6 +53,9 @@
 #'   ...
 #' }
 #' @keywords datasets
+#' @seealso
+#' See \code{\link{CCSR_labels}} for the labels of diagnosis codes and
+#' procedure codes in one dataset
 #' @details
 #' The version of CCSR used in this package is **v2022.1**; The source documentation
 #' \href{https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/dxccsr.jsp}{can be found here}
@@ -99,12 +102,35 @@
 #'   provided by the HCUP
 #' }
 #' @keywords datasets
+#' @seealso
+#' See \code{\link{CCSR_labels}} for the labels of diagnosis codes and
+#' procedure codes in one dataset
 #' @details
 #' The version of CCSR used in this package is **v2022.1**. The source documentation
 #'  \href{https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/prccsr.jsp}{can be found here}
 #' @source
 #' \url{https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/PRCCSR_v2022-1.zip}
 "CCSR_PR_categories"
+
+
+#### CCSR_labels ####
+#' CCSR descriptions (both DX & PR)
+#'
+#' Descriptions of the CCSR categories for both diagnosis and
+#' procedure CCSR groups
+#'
+#' @format
+#' \describe{
+#'   \item{CCSR}{CCSR category}
+#'   \item{CCSR_desc}{Description of CCSR category}
+#'   \item{version}{Either `pr10` (for procedures) or `dx10` (for
+#'   diagnoses)}
+#' }
+#' @keywords datasets
+#' @seealso
+#' See \code{\link{CCSR_DX_categories}} and \code{\link{CCSR_PR_categories}}
+#' for the two datasets used to generate this one.
+"CCSR_labels"
 
 
 #### CCI_icd10 ####
