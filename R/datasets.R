@@ -727,7 +727,23 @@
 
 
 
-#### XXXX ####
+#### valid_codes ####
+#' List of ICD codes
+#'
+#' A list of valid ICD codes, derived from the datasets elsewhere
+#' in this package
+#'
+#' @format List of four items
+#' \describe{
+#'   \item{dx9}{Vector ICD-9-CM diagnosis codes}
+#'   \item{pr9}{Vector ICD-9-CM procedure codes}
+#'   \item{dx10}{Vector ICD-10-CM diagnosis codes}
+#'   \item{pr10}{Vector ICD-10-PCS procedure codes}
+#' }
+#' @keywords datasets
+#'
+"valid_codes"
+
 #### XXXX ####
 #### XXXX ####
 #### XXXX ####
